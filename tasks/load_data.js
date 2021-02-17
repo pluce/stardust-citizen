@@ -1,5 +1,6 @@
 const { GraphQLClient, gql } = require('graphql-request')
 const { promises } = require('fs')
+const fetch = require('node-fetch');
 const fs = promises
 
 const headers = {
@@ -12,7 +13,7 @@ const headers = {
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-origin",
     "origin": "https://robertsspaceindustries.com",
-    "cookie": process.env.RSI_COOKIE_CONTENT,
+    "cookie": "",
     "referer": "https://robertsspaceindustries.com/pledge"
 }
 
@@ -98,8 +99,14 @@ const graphQLClient = new GraphQLClient(endpoint, {
 
 const edges = {}
 
-console.log("Downloading ships data.")
-graphQLClient.request(listShips).then((data) => {
+console.log("Getting auth token.")
+fetch("https://robertsspaceindustries.com/api/account/v2/setAuthToken", { method: "POST" })
+.then((res) => {
+    graphQLClient.setHeader('cookie', `Rsi-Account-Auth${res.headers.get("set-cookie").split("Rsi-Account-Auth")[1]}`)
+    console.log("Downloading ships data.")
+    return graphQLClient.request(listShips)
+})
+.then((data) => {
     data.ships.push({
         "id": 0,
         "name": "! No ship ! Tell me the best from nothing",
@@ -117,12 +124,10 @@ graphQLClient.request(listShips).then((data) => {
     console.log(`Got ${ships.length} ships.`)
     edges[0] = []
     const promises = ships.map(s => {
-        console.log(s)
         if(s.skus && s.skus.length > 0) {
             const skus = s.skus.filter(x => x.available && (x.unlimitedStock || x.availableStock != null))
             if(skus.length > 0) {
                 const theSku = skus.sort((a,b) => a.price - b.price)[0]
-                console.log(theSku)
                 edges[0].push(
                     { 
                         id: s.id,
@@ -137,7 +142,6 @@ graphQLClient.request(listShips).then((data) => {
                                 "availableStock": 0
                         }]
                     })
-                console.log(edges[0][s.id])
             }
         }
         return graphQLClient.request(shipCCU, {
