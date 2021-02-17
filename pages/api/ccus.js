@@ -2,9 +2,10 @@
 import { promises as fs } from 'fs'
 import { WeightedDiGraph, Edge, Dijkstra } from 'js-graph-algorithms'
 
+import ships from "../../app/data/ships.json"
+import edges from "../../app/data/edges.json"
+
 let graph = null
-let ships = []
-let edges = {}
 let sid_to_gid = {}
 let gid_to_ship = {}
 let edge_details = {}
@@ -14,8 +15,6 @@ const load_graph = async () => {
   if(graph) {
     return graph
   }
-  ships = JSON.parse(await fs.readFile("./data/ships.json"))
-  edges = JSON.parse(await fs.readFile("./data/edges.json"))
   for(let gid in ships) {
     gid_to_ship[gid] = ships[gid]
     sid_to_gid[ships[gid].id] = gid
@@ -40,14 +39,12 @@ const load_graph = async () => {
 }
 
 export default async (req, res) => {
-  console.log(req)
   let { from, to } = req.query
 
   if(!from || !to) {
     return res.status(400).json({error: "Missing parameters"})
   }
   const ccus = await load_graph()
-  console.log(from, to, sid_to_gid[from], sid_to_gid[to])
   const dijk = new Dijkstra(ccus, sid_to_gid[from])
   if (from == to || !dijk.hasPathTo(sid_to_gid[to])) {
     return res.status(200).json({no_path: true})

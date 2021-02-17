@@ -1,7 +1,7 @@
 import { Box, Grid, Flex, Heading, Text, Link, Alert, AlertIcon, Center, Badge} from '@chakra-ui/react'
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
-import ships from '../data/ships.json'
+import ships from '../app/data/ships.json'
 import SelectShip from '../app/SelectShip'
 import CCUPath from '../app/CCUPath'
 import Donate from '../app/Donate'

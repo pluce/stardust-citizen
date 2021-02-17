@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Select, Box, Image, List, ListItem, Badge } from '@chakra-ui/react'
 import { NotAllowedIcon} from '@chakra-ui/icons'
-import ships from '../data/ships.json'
+import ships from '../app/data/ships.json'
 
 function SelectShip(props) {
     const [selectedShip, selectShip] = useState(null)

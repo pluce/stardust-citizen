@@ -100,7 +100,7 @@ const edges = {}
 
 console.log("Downloading ships data.")
 graphQLClient.request(listShips).then((data) => {
-    fs.writeFile("./data/ships.json", JSON.stringify(data.ships))
+    fs.writeFile("./app/data/ships.json", JSON.stringify(data.ships))
     return data.ships
 }).then((ships) => {
     console.log(`Got ${ships.length} ships.`)
@@ -114,6 +114,6 @@ graphQLClient.request(listShips).then((data) => {
     return Promise.all(promises)
 }).then(() => {
     console.log(`Got ${Object.keys(edges).length} edges.`)
-    fs.writeFile("./data/edges.json", JSON.stringify(edges))
+    fs.writeFile("./app/data/edges.json", JSON.stringify(edges))
     console.log("Ok, everything saved !")
 })

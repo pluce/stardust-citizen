@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { Select, Box, Image, Heading, Table, Thead, Tbody, Tr, Th, Td, Badge} from '@chakra-ui/react'
-import ships from '../data/ships.json'
 
 function CCUPath(props) {
     const { from, to, path } = props
