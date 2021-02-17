@@ -100,15 +100,52 @@ const edges = {}
 
 console.log("Downloading ships data.")
 graphQLClient.request(listShips).then((data) => {
+    data.ships.push({
+        "id": 0,
+        "name": "! No ship ! Tell me the best from nothing",
+        "medias": {
+            "slideShow": "https://via.placeholder.com/648x366"
+        },
+        "manufacturer": {
+            "id": 0,
+            "name": "Pluce"
+        }
+    })
     fs.writeFile("./app/data/ships.json", JSON.stringify(data.ships))
     return data.ships
 }).then((ships) => {
     console.log(`Got ${ships.length} ships.`)
+    edges[0] = []
     const promises = ships.map(s => {
+        console.log(s)
+        if(s.skus && s.skus.length > 0) {
+            const skus = s.skus.filter(x => x.available && (x.unlimitedStock || x.availableStock != null))
+            if(skus.length > 0) {
+                const theSku = skus.sort((a,b) => a.price - b.price)[0]
+                console.log(theSku)
+                edges[0].push(
+                    { 
+                        id: s.id,
+                        skus: [
+                            {
+                                "id": 100000+parseInt(s.id),
+                                "price": theSku.price,
+                                "upgradePrice": theSku.price,
+                                "unlimitedStock": true,
+                                "showStock": true,
+                                "available": true,
+                                "availableStock": 0
+                        }]
+                    })
+                console.log(edges[0][s.id])
+            }
+        }
         return graphQLClient.request(shipCCU, {
             "fromId": s.id
         }).then((data) => {
-            edges[s.id] = data.to.ships
+            if(s.id != 0) {
+                edges[s.id] = data.to.ships
+            }
         })
     })
     return Promise.all(promises)

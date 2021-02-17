@@ -1,7 +1,4 @@
 import { Box, Grid, Flex, Heading, Text, Link, Alert, AlertIcon, Center, Badge} from '@chakra-ui/react'
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
-import ships from '../app/data/ships.json'
 import SelectShip from '../app/SelectShip'
 import CCUPath from '../app/CCUPath'
 import Donate from '../app/Donate'
@@ -33,20 +30,20 @@ export default function Home() {
 
   return (
     <>
-      <Box p="10">
+      <Box pl="10" pr="10" pt="5">
         <Heading colorScheme="teal">Welcome to the CCUs pathfinder</Heading>
         <Text fontSize="xl">
           Choose a starting ship, a target ship and you'll get the most money-efficient CCU path.
         </Text>
       </Box>
-      <Flex
-      >
+      <Box pl="10" pr="10">
+      <Flex>
         
           <SelectShip flex="1" w="100%" onSelect={setStartingShip} placeholder="Select a starting ship"/>
         
           <SelectShip flex="1" w="100%" onSelect={setTargetShip} placeholder="Select a target ship"/>
   
-        </Flex>
+        </Flex></Box>
         { noCCUPath &&
         <Box p={10}>
           <Alert status="error">
