@@ -1,65 +1,62 @@
+import { Box, Grid, Flex, Heading, Text, Link, Alert, AlertIcon, Center, Badge} from '@chakra-ui/react'
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import ships from '../data/ships.json'
+import SelectShip from '../app/SelectShip'
+import CCUPath from '../app/CCUPath'
+import Donate from '../app/Donate'
+
+import { useEffect, useState } from 'react'
 
 export default function Home() {
+  const [startingShip, setStartingShip] = useState(null)
+  const [targetShip, setTargetShip] = useState(null)
+  const [ccuData, setCCUData] = useState(null)
+  const [noCCUPath, setNoCCUPath] = useState(false)
+
+  useEffect(async () => {
+    if (startingShip && targetShip) {
+      setNoCCUPath(false)
+      setCCUData(null)
+      const ccus = await fetch("api/ccus?" + new URLSearchParams({
+        from: startingShip.id,
+        to: targetShip.id,
+      }))
+      const data = await ccus.json()
+      if(data.no_path) {
+        setNoCCUPath(true)
+      } else {
+        setCCUData(data)
+      }
+    }
+  }, [startingShip, targetShip])
+
   return (
-    <div className={styles.container}>
-      <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
-
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
-
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
-        </div>
-      </main>
-
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
-      </footer>
-    </div>
+    <>
+      <Box p="10">
+        <Heading colorScheme="teal">Welcome to the CCUs pathfinder</Heading>
+        <Text fontSize="xl">
+          Choose a starting ship, a target ship and you'll get the most money-efficient CCU path.
+        </Text>
+      </Box>
+      <Flex
+      >
+        
+          <SelectShip flex="1" w="100%" onSelect={setStartingShip} placeholder="Select a starting ship"/>
+        
+          <SelectShip flex="1" w="100%" onSelect={setTargetShip} placeholder="Select a target ship"/>
+  
+        </Flex>
+        { noCCUPath &&
+        <Box p={10}>
+          <Alert status="error">
+            <AlertIcon />
+            Sadly we didn't find any CCU path between these ships 😢
+          </Alert>
+        </Box>
+        }
+        { ccuData && <CCUPath from={startingShip} to={targetShip} path={ccuData} />}
+        <Box><Center>Made by <Link mr="1" ml="1" color="teal.500" href="https://robertsspaceindustries.com/citizens/pluce">pluce</Link> - If you like this you can <Donate/> or use my referral code <Badge ml="1" colorScheme="teal">STAR-22GV-7JVT</Badge></Center></Box>
+    </>
   )
 }
