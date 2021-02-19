@@ -1,8 +1,8 @@
-import React, { useState } from 'react'
-import { Select, Box, Image, Heading, Table, Thead, Tbody, Tr, Th, Td, Badge} from '@chakra-ui/react'
+import React from 'react'
+import { Box, Heading, Table, Thead, Tbody, Tr, Th, Td, Badge} from '@chakra-ui/react'
 
 function CCUPath(props) {
-    const { from, to, path } = props
+    const { from, to, path, customCCUs } = props
     const { total_ccu_price, ccus } = path
     return (
     <Box p="10" verticalAlign="top">
@@ -18,11 +18,15 @@ function CCUPath(props) {
                 </Thead>
                 <Tbody>
                     { ccus.map(ccu => {
+                        const cccuid = `${ccu.from.id}-${ccu.to.id}-${ccu.id}`
                         return (
-                        <Tr>
+                        <Tr key={ccu.id}>
                             <Td pl="110px" bg={`center left / contain no-repeat url('${ccu.from.medias.slideShow}')`}>{ccu.from.name}</Td>
                             <Td pl="110px" bg={`center left / contain no-repeat url('${ccu.to.medias.slideShow}')`}>{ccu.to.name}</Td>
-                            <Td isNumeric><Badge fontSize="lg" colorScheme="teal">${ccu.upgradePrice / 100}</Badge></Td>
+                            <Td isNumeric>
+                                { customCCUs.indexOf(cccuid) < 0 && <Badge fontSize="lg" colorScheme="teal">${ccu.upgradePrice / 100}</Badge>}
+                                { customCCUs.indexOf(cccuid) > -1 && <Badge fontSize="lg" colorScheme="teal">Already owned</Badge>}
+                            </Td>
                         </Tr>
                         )
                     })}

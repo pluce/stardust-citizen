@@ -4,36 +4,47 @@ import CCUPath from '../app/CCUPath'
 import Donate from '../app/Donate'
 
 import { useEffect, useState } from 'react'
+import OwnCCU from '../app/OwnCCU'
 
 export default function Home() {
   const [startingShip, setStartingShip] = useState(null)
   const [targetShip, setTargetShip] = useState(null)
   const [ccuData, setCCUData] = useState(null)
   const [noCCUPath, setNoCCUPath] = useState(false)
+  const [customCCUs, setCustomCCUs] = useState([])
 
   useEffect(async () => {
     if (startingShip && targetShip) {
       setNoCCUPath(false)
       setCCUData(null)
-      const ccus = await fetch("api/ccus?" + new URLSearchParams({
+      const ccus = await fetch("api/path?" + new URLSearchParams({
         from: startingShip.id,
         to: targetShip.id,
+        free_ccus: customCCUs
       }))
       const data = await ccus.json()
-      if(data.no_path) {
+      if(data.ccus.length == 0) {
         setNoCCUPath(true)
       } else {
         setCCUData(data)
       }
     }
-  }, [startingShip, targetShip])
+  }, [startingShip, targetShip, customCCUs])
+
+  const onSelectCustomCCUs = (custom_ccus) => {
+    setCustomCCUs(custom_ccus.map(x => `${x.from.id}-${x.to.id}-${x.id}`))
+  }
 
   return (
     <>
       <Box pl="10" pr="10" pt="5">
+        <OwnCCU onSelectChange={onSelectCustomCCUs}/>
         <Heading colorScheme="teal">Welcome to the CCUs pathfinder</Heading>
         <Text fontSize="xl">
           Choose a starting ship, a target ship and you'll get the most money-efficient CCU path.
+        </Text>
+        <Text fontSize="lg">
+          You can also select some CCUs you already own by clicking on the button on the right. They'll count as $0 CCUs.
         </Text>
       </Box>
       <Box pl="10" pr="10">
@@ -52,7 +63,7 @@ export default function Home() {
           </Alert>
         </Box>
         }
-        { ccuData && <CCUPath from={startingShip} to={targetShip} path={ccuData} />}
+        { ccuData && <CCUPath from={startingShip} to={targetShip} path={ccuData} customCCUs={customCCUs}/>}
         <Box><Center>Made by <Link mr="1" ml="1" color="teal.500" href="https://robertsspaceindustries.com/citizens/pluce">pluce</Link> - If you like this you can <Donate/> or use my referral code <Badge ml="1" colorScheme="teal">STAR-22GV-7JVT</Badge></Center></Box>
     </>
   )

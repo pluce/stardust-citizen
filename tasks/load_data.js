@@ -2,6 +2,7 @@ const { GraphQLClient, gql } = require('graphql-request')
 const { promises } = require('fs')
 const fetch = require('node-fetch');
 const fs = promises
+const { Graph, json } = require("@dagrejs/graphlib");
 
 const headers = {
     "accept": "*/*",
@@ -99,6 +100,8 @@ const graphQLClient = new GraphQLClient(endpoint, {
 
 const edges = {}
 
+const graph = new Graph({ directed: true, multigraph: true })
+
 console.log("Getting auth token.")
 fetch("https://robertsspaceindustries.com/api/account/v2/setAuthToken", { method: "POST" })
 .then((res) => {
@@ -118,43 +121,54 @@ fetch("https://robertsspaceindustries.com/api/account/v2/setAuthToken", { method
             "name": "Pluce"
         }
     })
-    fs.writeFile("./app/data/ships.json", JSON.stringify(data.ships))
+    data.ships.forEach((ship) => {
+      graph.setNode(ship.id, ship)
+    })
     return data.ships
 }).then((ships) => {
-    console.log(`Got ${ships.length} ships.`)
-    edges[0] = []
+    console.log(`Got ${graph.nodeCount()} ships.`)
     const promises = ships.map(s => {
         if(s.skus && s.skus.length > 0) {
             const skus = s.skus.filter(x => x.available && (x.unlimitedStock || x.availableStock != null))
-            if(skus.length > 0) {
-                const theSku = skus.sort((a,b) => a.price - b.price)[0]
-                edges[0].push(
-                    { 
-                        id: s.id,
-                        skus: [
-                            {
-                                "id": 100000+parseInt(s.id),
-                                "price": theSku.price,
-                                "upgradePrice": theSku.price,
-                                "unlimitedStock": true,
-                                "showStock": true,
-                                "available": true,
-                                "availableStock": 0
-                        }]
-                    })
-            }
+            skus.forEach(sku => {
+              const fake_sku_id = 100000+parseInt(s.id)
+              graph.setEdge(
+                "0",
+                s.id,
+                {
+                  "id": fake_sku_id,
+                  "title": sku.title,
+                  "price": sku.price,
+                  "upgradePrice": sku.price,
+                  "unlimitedStock": true,
+                  "showStock": true,
+                  "available": true,
+                  "availableStock": 0
+                },
+                fake_sku_id
+              )
+            })
         }
         return graphQLClient.request(shipCCU, {
             "fromId": s.id
         }).then((data) => {
             if(s.id != 0) {
-                edges[s.id] = data.to.ships
+                data.to.ships.forEach(tship => {
+                  tship.skus.forEach(sku => {
+                    graph.setEdge(
+                      s.id,
+                      tship.id,
+                      sku,
+                      sku.id
+                    )
+                  })
+                })
             }
         })
     })
     return Promise.all(promises)
 }).then(() => {
-    console.log(`Got ${Object.keys(edges).length} edges.`)
-    fs.writeFile("./app/data/edges.json", JSON.stringify(edges))
+    fs.writeFile("./app/data/graph.json", JSON.stringify(json.write(graph)))
+    console.log(`Got ${graph.edgeCount()} edges.`)
     console.log("Ok, everything saved !")
 })
