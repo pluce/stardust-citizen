@@ -174,8 +174,8 @@ fetch("https://robertsspaceindustries.com/api/account/v2/setAuthToken", { method
           ...e.value,
           from: graph.node(e.v),
           to: graph.node(e.w)
-      })
-  )),null,2)
+      }))))
+    fs.writeFile("./app/data/ships.json", JSON.stringify(json.write(graph).nodes.map(n => n.value),null,2))
     console.log(`Got ${graph.edgeCount()} edges.`)
     console.log("Ok, everything saved !")
 })

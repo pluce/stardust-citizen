@@ -2,7 +2,7 @@
 import { useDisclosure, Button, Modal, ModalFooter, ModalBody, ModalContent, ModalHeader, ModalCloseButton, ModalOverlay } from '@chakra-ui/react'
 import React, { useState, useEffect } from 'react'
 import Select from 'react-select'
-
+import graph_ccu from "./data/ccus.json"
 
 function OwnCCU(props) {
     const { onSelectChange } = props
@@ -11,9 +11,7 @@ function OwnCCU(props) {
     const { isOpen, onOpen, onClose } = useDisclosure()
 
     useEffect(async () => {
-        const res = await fetch("api/ccus")
-        const data = await res.json()
-        setCCUList(data)
+        setCCUList(graph_ccu)
         const saved_ccus = JSON.parse(localStorage.getItem("custom_ccus"))
         if(saved_ccus) {
             onSelect(saved_ccus)

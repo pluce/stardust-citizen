@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { Box, Image, List, ListItem, Badge } from '@chakra-ui/react'
 import { NotAllowedIcon} from '@chakra-ui/icons'
 import Select from 'react-select'
+import graph_ships from "./data/ships.json"
 
 
 function SelectShip(props) {
@@ -9,9 +10,7 @@ function SelectShip(props) {
     const [selectedShip, selectShip] = useState(null)
 
     useEffect( async () => {
-        const res = await fetch("api/ships")
-        const data = await res.json()
-        setShipList(data)
+        setShipList(graph_ships)
     },[])
 
     const onSelect = (ship) => {
