@@ -38,7 +38,7 @@ function OwnCCU(props) {
             <Select
                     options={ccuList}
                     isMulti={true}
-                    getOptionLabel={(x) => `${x.from.name} -> ${x.to.name}`}
+                    getOptionLabel={(x) => `${x.from.name} -> ${x.to.name} (${x.title})`}
                     getOptionValue={(x) => `${x.from.id}-${x.to.id}-${x.id}`}
                     defaultValue={selectedCCUs}
                     theme={ (theme) => ({

@@ -1,6 +1,7 @@
 import { Box, Grid, Flex, Heading, Text, Link, Alert, AlertIcon, Center, Badge} from '@chakra-ui/react'
 import SelectShip from '../app/SelectShip'
 import CCUPath from '../app/CCUPath'
+//import CCUGraph from '../app/CCUGraph'
 import Donate from '../app/Donate'
 
 import { useEffect, useState } from 'react'
@@ -12,6 +13,7 @@ export default function Home() {
   const [ccuData, setCCUData] = useState(null)
   const [noCCUPath, setNoCCUPath] = useState(false)
   const [customCCUs, setCustomCCUs] = useState([])
+ // const [graphData, setGraphData] = useState(null)
 
   useEffect(async () => {
     if (startingShip && targetShip) {
@@ -31,6 +33,12 @@ export default function Home() {
     }
   }, [startingShip, targetShip, customCCUs])
 
+  // useEffect(async () => {
+  //   const ccus = await fetch("api/all")
+  //   const data = await ccus.json()
+  //   setGraphData(data)
+  // }, [])
+
   const onSelectCustomCCUs = (custom_ccus) => {
     setCustomCCUs(custom_ccus.map(x => `${x.from.id}-${x.to.id}-${x.id}`))
   }
@@ -46,6 +54,9 @@ export default function Home() {
         <Text fontSize="lg">
           You can also select some CCUs you already own by clicking on the button on the right. They'll count as $0 CCUs.
         </Text>
+        <Text fontSize="lg">
+          You can get a <Link href="/ccus" color="teal.500" >list of ships and CCUs there</Link>.
+        </Text>
       </Box>
       <Box pl="10" pr="10">
       <Flex>
@@ -55,6 +66,12 @@ export default function Home() {
           <SelectShip flex="1" w="100%" onSelect={setTargetShip} placeholder="Select a target ship"/>
   
         </Flex></Box>
+      {/* { graphData && <Box pl="10" pr="10">
+      <Flex>
+        
+          <CCUGraph flex="1" w="100%" data={graphData}/>
+  
+      </Flex></Box> } */}
         { noCCUPath &&
         <Box p={10}>
           <Alert status="error">

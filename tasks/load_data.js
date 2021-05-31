@@ -79,12 +79,22 @@ query filterShips($fromId: Int) {
         id
         skus {
           id
+          title
           price
           upgradePrice
           unlimitedStock
           showStock
           available
           availableStock
+          limitedTimeOffer
+          body
+          items {
+            id
+            title
+          }
+          medias {
+            storeThumbSkuDetail
+          }
         }
       }
     }
@@ -169,13 +179,18 @@ fetch("https://robertsspaceindustries.com/api/account/v2/setAuthToken", { method
     return Promise.all(promises)
 }).then(() => {
     fs.writeFile("./app/data/graph.json", JSON.stringify(json.write(graph),null,2))
-    fs.writeFile("./app/data/ccus.json", JSON.stringify(json.write(graph).edges.filter(e => e.v != "0").map(e => 
+    const ccus = json.write(graph).edges.filter(e => e.v != "0").map(e => 
       ({
           ...e.value,
-          from: graph.node(e.v),
-          to: graph.node(e.w)
-      }))))
-    fs.writeFile("./app/data/ships.json", JSON.stringify(json.write(graph).nodes.map(n => n.value),null,2))
+          from: { id: graph.node(e.v).id, name: graph.node(e.v).name },
+          to: { id: graph.node(e.w).id, name: graph.node(e.w).name }
+      }))
+    ccus.sort((a,b) => (a.to.name > b.to.name) ? 1 : ((b.to.name > a.to.name) ? -1 : 0))
+    fs.writeFile("./app/data/ccus.json", JSON.stringify(ccus,null,2))
+
+    const ships = json.write(graph).nodes.map(n => n.value) 
+    ships.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0))
+    fs.writeFile("./app/data/ships.json", JSON.stringify(ships,null,2))
     console.log(`Got ${graph.edgeCount()} edges.`)
     console.log("Ok, everything saved !")
 })
