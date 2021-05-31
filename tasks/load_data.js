@@ -169,6 +169,13 @@ fetch("https://robertsspaceindustries.com/api/account/v2/setAuthToken", { method
     return Promise.all(promises)
 }).then(() => {
     fs.writeFile("./app/data/graph.json", JSON.stringify(json.write(graph),null,2))
+    fs.writeFile("./app/data/ccus.json", JSON.stringify(json.write(graph).edges.filter(e => e.v != "0").map(e => 
+      ({
+          ...e.value,
+          from: graph.node(e.v),
+          to: graph.node(e.w)
+      })
+  )),null,2)
     console.log(`Got ${graph.edgeCount()} edges.`)
     console.log("Ok, everything saved !")
 })
