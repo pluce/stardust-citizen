@@ -835,15 +835,6 @@
     "link": "/pledge/ships/defender/Banu-Defender",
     "skus": [
       {
-        "id": 13075,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 22000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 13616,
         "title": "Warbond Edition",
         "available": true,
@@ -872,15 +863,6 @@
     "msrp": 27500,
     "link": "/pledge/ships/vanduul-blade/Blade",
     "skus": [
-      {
-        "id": 13057,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 27500,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
       {
         "id": 13240,
         "title": "Warbond Edition",
@@ -1857,15 +1839,6 @@
     "link": "/pledge/ships/talon/Esperia-Talon",
     "skus": [
       {
-        "id": 14104,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 11500,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 14075,
         "title": "Warbond Edition",
         "available": true,
@@ -1894,15 +1867,6 @@
     "msrp": 11500,
     "link": "/pledge/ships/talon/Esperia-Talon-Shrike",
     "skus": [
-      {
-        "id": 14103,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 11500,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
       {
         "id": 14076,
         "title": "Warbond Edition",
@@ -2660,15 +2624,6 @@
         "body": "*Warbond version ships CANNOT be obtained with store credit*",
         "unlimitedStock": true,
         "availableStock": 0
-      },
-      {
-        "id": 13008,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 17000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
       }
     ]
   },
@@ -3183,17 +3138,7 @@
     "owned": false,
     "msrp": 4500,
     "link": "/pledge/ships/nox/Nox",
-    "skus": [
-      {
-        "id": 13077,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 4500,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 132,
@@ -3535,15 +3480,6 @@
         "title": "Warbond Edition",
         "available": true,
         "price": 39500,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 13391,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 44000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -4161,17 +4097,7 @@
     "owned": false,
     "msrp": 22000,
     "link": "/pledge/ships/aopoa-santokyai/Santoky-i",
-    "skus": [
-      {
-        "id": 13110,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 22000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 26,
