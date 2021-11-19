@@ -81,7 +81,7 @@ export default function Home() {
         </Box>
         }
         { ccuData && <CCUPath from={startingShip} to={targetShip} path={ccuData} customCCUs={customCCUs}/>}
-        <Box><Center>Made by <Link mr="1" ml="1" color="teal.500" href="https://robertsspaceindustries.com/citizens/pluce">pluce</Link> - If you like this you can <Donate/> or use my referral code <Badge ml="1" colorScheme="teal">STAR-22GV-7JVT</Badge></Center></Box>
+        <Box><Center>All prices includes a 20% VAT<br/>Made by <Link mr="1" ml="1" color="teal.500" href="https://robertsspaceindustries.com/citizens/pluce">pluce</Link> - If you like this you can <Donate/> or use my referral code <Badge ml="1" colorScheme="teal">STAR-22GV-7JVT</Badge></Center></Box>
     </>
   )
 }

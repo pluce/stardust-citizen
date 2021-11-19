@@ -32,7 +32,7 @@
         "id": 13097,
         "title": "100i Upgrade",
         "available": true,
-        "price": 5000,
+        "price": 6000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -61,7 +61,7 @@
         "id": 13098,
         "title": "Standard Edition",
         "available": true,
-        "price": 6000,
+        "price": 7200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -90,7 +90,7 @@
         "id": 13099,
         "title": "Standard Edition",
         "available": true,
-        "price": 6500,
+        "price": 7800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -119,7 +119,7 @@
         "id": 13746,
         "title": "Standard Edition",
         "available": true,
-        "price": 6000,
+        "price": 7200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -148,7 +148,7 @@
         "id": 12994,
         "title": "315p Upgrade",
         "available": true,
-        "price": 6500,
+        "price": 7800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -177,7 +177,7 @@
         "id": 12995,
         "title": "Standard Edition",
         "available": true,
-        "price": 7000,
+        "price": 8400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -244,7 +244,7 @@
         "id": 13243,
         "title": "Warbond Edition",
         "available": true,
-        "price": 42500,
+        "price": 51000,
         "body": "<h3 style=\"color:#bf590f\"><strong>Limited Warbond Offer</strong></h3>\n<p style=\"color:#4d575e\">This limited time and stock Warbond Upgrade offer includes <strong>10-year IAE insurance.</strong><br/>Pledge cannot be made with credit.</p>",
         "unlimitedStock": true,
         "availableStock": 0
@@ -330,7 +330,7 @@
         "id": 13102,
         "title": "A2 Hercules Upgrade - 2949",
         "available": true,
-        "price": 70000,
+        "price": 84000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": null
@@ -339,7 +339,7 @@
         "id": 14740,
         "title": "Warbond Edition",
         "available": true,
-        "price": 67500,
+        "price": 81000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -348,7 +348,7 @@
         "id": 14609,
         "title": "Standard Edition",
         "available": true,
-        "price": 75000,
+        "price": 90000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": null
@@ -453,7 +453,7 @@
         "id": 13287,
         "title": "Standard Edition",
         "available": true,
-        "price": 22000,
+        "price": 26400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -462,7 +462,7 @@
         "id": 14485,
         "title": "Warbond Edition",
         "available": true,
-        "price": 20000,
+        "price": 24000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -491,7 +491,7 @@
         "id": 13288,
         "title": "Standard Edition",
         "available": true,
-        "price": 22000,
+        "price": 26400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -500,7 +500,7 @@
         "id": 14484,
         "title": "Warbond Edition",
         "available": true,
-        "price": 20000,
+        "price": 24000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -529,7 +529,7 @@
         "id": 13309,
         "title": "Standard Edition",
         "available": true,
-        "price": 31500,
+        "price": 37800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -596,7 +596,7 @@
         "id": 13109,
         "title": "Standard Edition",
         "available": true,
-        "price": 7500,
+        "price": 9000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -625,7 +625,7 @@
         "id": 12991,
         "title": "Aurora CL Upgrade",
         "available": true,
-        "price": 4500,
+        "price": 5400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -654,7 +654,7 @@
         "id": 12988,
         "title": "Aurora ES Upgrade",
         "available": true,
-        "price": 2000,
+        "price": 2400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -683,7 +683,7 @@
         "id": 14030,
         "title": "Standard Edition",
         "available": true,
-        "price": 4000,
+        "price": 4800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -712,7 +712,7 @@
         "id": 14031,
         "title": "Standard Edition",
         "available": true,
-        "price": 3500,
+        "price": 4200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -741,7 +741,7 @@
         "id": 14032,
         "title": "Standard Edition",
         "available": true,
-        "price": 3000,
+        "price": 3600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -770,7 +770,7 @@
         "id": 13049,
         "title": "Standard Edition",
         "available": true,
-        "price": 6000,
+        "price": 7200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -799,7 +799,7 @@
         "id": 13745,
         "title": "Standard Edition",
         "available": true,
-        "price": 5500,
+        "price": 6600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -866,7 +866,7 @@
         "id": 13118,
         "title": "Standard Edition",
         "available": true,
-        "price": 14000,
+        "price": 16800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -914,7 +914,7 @@
         "id": 13240,
         "title": "Warbond Edition",
         "available": true,
-        "price": 25000,
+        "price": 30000,
         "body": "<h3 style=\"color:#bf590f\"><strong>Limited Warbond Offer</strong></h3>\n<p style=\"color:#4d575e\">This limited time and stock Warbond Upgrade offer includes <strong>10-year IAE insurance.</strong><br/>Pledge cannot be made with credit.</p>",
         "unlimitedStock": true,
         "availableStock": 0
@@ -943,7 +943,7 @@
         "id": 14492,
         "title": "Warbond Edition",
         "available": true,
-        "price": 10000,
+        "price": 12000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -972,7 +972,7 @@
         "id": 14436,
         "title": "Warbond Edition",
         "available": true,
-        "price": 36000,
+        "price": 43200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -981,7 +981,7 @@
         "id": 14445,
         "title": "Standard Edition",
         "available": true,
-        "price": 40000,
+        "price": 48000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1010,7 +1010,7 @@
         "id": 13259,
         "title": "Standard Edition",
         "available": true,
-        "price": 4500,
+        "price": 5400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1039,7 +1039,7 @@
         "id": 14809,
         "title": "Warbond Edition",
         "available": true,
-        "price": 56000,
+        "price": 67200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1048,7 +1048,7 @@
         "id": 13634,
         "title": "Subscriber Edition",
         "available": true,
-        "price": 60000,
+        "price": 72000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1057,7 +1057,7 @@
         "id": 13375,
         "title": "Standard Edition",
         "available": true,
-        "price": 60000,
+        "price": 72000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1066,7 +1066,7 @@
         "id": 13968,
         "title": "Warbond Edition",
         "available": true,
-        "price": 57000,
+        "price": 68400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1075,7 +1075,7 @@
         "id": 13023,
         "title": "Anvil Carrack Upgrade",
         "available": true,
-        "price": 50000,
+        "price": 60000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1104,7 +1104,7 @@
         "id": 13373,
         "title": "Standard Edition",
         "available": true,
-        "price": 62500,
+        "price": 75000,
         "body": "* This is not a GAME PACKAGE. Please note a <a href=\"https://robertsspaceindustries.com/pledge/game-packages\">GAME PACKAGE</a> is required to play the game and fly or access your ships.",
         "unlimitedStock": true,
         "availableStock": 0
@@ -1171,7 +1171,7 @@
         "id": 13242,
         "title": "Warbond Edition",
         "available": true,
-        "price": 27000,
+        "price": 32400,
         "body": "<div><p style=\"color:#4d575e\">This limited time and stock Warbond Upgrade offer includes <strong>10-year IAE insurance.</strong><br/>Pledge cannot be made with credit.</p> </div>",
         "unlimitedStock": true,
         "availableStock": 0
@@ -1238,7 +1238,7 @@
         "id": 14469,
         "title": "Warbond Edition",
         "available": true,
-        "price": 21000,
+        "price": 25200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1247,7 +1247,7 @@
         "id": 14541,
         "title": "Standard Edition",
         "available": true,
-        "price": 24000,
+        "price": 28800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1276,7 +1276,7 @@
         "id": 13013,
         "title": "Standard Edition",
         "available": true,
-        "price": 31000,
+        "price": 37200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1343,7 +1343,7 @@
         "id": 14548,
         "title": "Warbond Edition",
         "available": true,
-        "price": 16000,
+        "price": 19200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1352,7 +1352,7 @@
         "id": 14539,
         "title": "Standard Edition",
         "available": true,
-        "price": 19000,
+        "price": 22800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1381,7 +1381,7 @@
         "id": 13963,
         "title": "Warbond Edition",
         "available": true,
-        "price": 20000,
+        "price": 24000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1410,7 +1410,7 @@
         "id": 13053,
         "title": "Standard Edition ",
         "available": true,
-        "price": 35000,
+        "price": 42000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1439,7 +1439,7 @@
         "id": 13017,
         "title": "Standard Edition",
         "available": true,
-        "price": 10000,
+        "price": 12000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1448,7 +1448,7 @@
         "id": 13969,
         "title": "Warbond Edition",
         "available": true,
-        "price": 9500,
+        "price": 11400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1496,7 +1496,7 @@
         "id": 13582,
         "title": "Limited Warbond Edition",
         "available": true,
-        "price": 15000,
+        "price": 18000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1525,7 +1525,7 @@
         "id": 13606,
         "title": "Warbond Subscriber Edition",
         "available": true,
-        "price": 12000,
+        "price": 14400,
         "body": "<b>Warbond version ships CANNOT be obtained with store credit</b>",
         "unlimitedStock": true,
         "availableStock": 0
@@ -1534,7 +1534,7 @@
         "id": 13607,
         "title": "Subscriber Edition",
         "available": true,
-        "price": 13500,
+        "price": 16200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1543,7 +1543,7 @@
         "id": 13326,
         "title": "Warbond Edition",
         "available": true,
-        "price": 12000,
+        "price": 14400,
         "body": "<b>Warbond version ships CANNOT be obtained with store credit</b>",
         "unlimitedStock": true,
         "availableStock": 0
@@ -1552,7 +1552,7 @@
         "id": 13327,
         "title": "Standard Edition",
         "available": true,
-        "price": 13500,
+        "price": 16200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1561,7 +1561,7 @@
         "id": 14141,
         "title": "Warbond Edition",
         "available": true,
-        "price": 12500,
+        "price": 15000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1570,7 +1570,7 @@
         "id": 14801,
         "title": "Subscribers Edition",
         "available": true,
-        "price": 13500,
+        "price": 16200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1599,7 +1599,7 @@
         "id": 13079,
         "title": "Standard Edition",
         "available": true,
-        "price": 5500,
+        "price": 6600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1723,7 +1723,7 @@
         "id": 13060,
         "title": "Standard Edition",
         "available": true,
-        "price": 4000,
+        "price": 4800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1771,7 +1771,7 @@
         "id": 13967,
         "title": "Warbond Edition",
         "available": true,
-        "price": 27500,
+        "price": 33000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1819,7 +1819,7 @@
         "id": 12997,
         "title": "Standard Edition ",
         "available": true,
-        "price": 11000,
+        "price": 13200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1848,7 +1848,7 @@
         "id": 13069,
         "title": "Standard Edition ",
         "available": true,
-        "price": 17500,
+        "price": 21000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1877,7 +1877,7 @@
         "id": 13000,
         "title": "Standard Edition",
         "available": true,
-        "price": 18000,
+        "price": 21600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1886,7 +1886,7 @@
         "id": 13199,
         "title": "Warbond Edition",
         "available": true,
-        "price": 16500,
+        "price": 19800,
         "body": "<h3 style=\"color:#bf590f\"><strong>Limited Warbond Offer</strong></h3>\n<p style=\"color:#4d575e\">This limited time and stock Warbond Upgrade offer includes <strong>10-year IAE insurance.</strong><br/>Pledge cannot be made with credit.</p>",
         "unlimitedStock": true,
         "availableStock": 0
@@ -1895,7 +1895,7 @@
         "id": 14490,
         "title": "Warbond Edition",
         "available": true,
-        "price": 16500,
+        "price": 19800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1924,7 +1924,7 @@
         "id": 13112,
         "title": "Standard Edition",
         "available": true,
-        "price": 19500,
+        "price": 23400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1933,7 +1933,7 @@
         "id": 14148,
         "title": "Warbond Edition",
         "available": true,
-        "price": 18500,
+        "price": 22200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1962,7 +1962,7 @@
         "id": 12999,
         "title": "Standard Edition ",
         "available": true,
-        "price": 14000,
+        "price": 16800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1991,7 +1991,7 @@
         "id": 12998,
         "title": "Standard Edition ",
         "available": true,
-        "price": 12500,
+        "price": 15000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2020,7 +2020,7 @@
         "id": 13002,
         "title": "Standard Edition",
         "available": true,
-        "price": 11000,
+        "price": 13200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2049,7 +2049,7 @@
         "id": 13006,
         "title": "Standard Edition",
         "available": true,
-        "price": 13500,
+        "price": 16200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2078,7 +2078,7 @@
         "id": 13007,
         "title": "Standard Edition",
         "available": true,
-        "price": 15000,
+        "price": 18000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2087,7 +2087,7 @@
         "id": 13962,
         "title": "Warbond Edition",
         "available": true,
-        "price": 14000,
+        "price": 16800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2116,7 +2116,7 @@
         "id": 13581,
         "title": "Limited Warbond Edition",
         "available": true,
-        "price": 16500,
+        "price": 19800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2125,7 +2125,7 @@
         "id": 13319,
         "title": "Warbond Edition",
         "available": true,
-        "price": 16500,
+        "price": 19800,
         "body": "<h3 style=\"color:#bf590f\"><strong>Limited Time Offer</h3>\n<p style=\"color:#4d575e\">Warbond version ships CANNOT be obtained with store credit</p>",
         "unlimitedStock": true,
         "availableStock": 0
@@ -2134,7 +2134,7 @@
         "id": 14140,
         "title": "Warbond Edition",
         "available": true,
-        "price": 16500,
+        "price": 19800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2182,7 +2182,7 @@
         "id": 13024,
         "title": "Standard Edition ",
         "available": true,
-        "price": 16500,
+        "price": 19800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2191,7 +2191,7 @@
         "id": 14491,
         "title": "Warbond Edition ",
         "available": true,
-        "price": 15000,
+        "price": 18000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2220,7 +2220,7 @@
         "id": 13021,
         "title": "Standard Edition",
         "available": true,
-        "price": 9000,
+        "price": 10800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2229,7 +2229,7 @@
         "id": 14480,
         "title": "Warbond Edition",
         "available": true,
-        "price": 8000,
+        "price": 9600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2334,7 +2334,7 @@
         "id": 13090,
         "title": "Standard Edition",
         "available": true,
-        "price": 10000,
+        "price": 12000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2343,7 +2343,7 @@
         "id": 13960,
         "title": "Warbond Edition",
         "available": true,
-        "price": 9500,
+        "price": 11400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2391,7 +2391,7 @@
         "id": 13033,
         "title": "Standard Edition",
         "available": true,
-        "price": 6000,
+        "price": 7200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2420,7 +2420,7 @@
         "id": 13034,
         "title": "Standard Edition",
         "available": true,
-        "price": 9000,
+        "price": 10800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2449,7 +2449,7 @@
         "id": 13010,
         "title": "Standard Edition",
         "available": true,
-        "price": 25000,
+        "price": 30000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2478,7 +2478,7 @@
         "id": 13035,
         "title": "Standard Edition",
         "available": true,
-        "price": 35000,
+        "price": 42000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2526,7 +2526,7 @@
         "id": 13074,
         "title": "Standard Edition",
         "available": true,
-        "price": 19500,
+        "price": 23400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2574,7 +2574,7 @@
         "id": 13627,
         "title": "Warbond Edition",
         "available": true,
-        "price": 16000,
+        "price": 19200,
         "body": "*Warbond version ships CANNOT be obtained with store credit*",
         "unlimitedStock": true,
         "availableStock": 0
@@ -2603,7 +2603,7 @@
         "id": 14625,
         "title": "Standard Edition",
         "available": true,
-        "price": 57500,
+        "price": 69000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": null
@@ -2632,7 +2632,7 @@
         "id": 14446,
         "title": "Standard Edition",
         "available": true,
-        "price": 52000,
+        "price": 62400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2661,7 +2661,7 @@
         "id": 13628,
         "title": "Warbond Edition",
         "available": true,
-        "price": 9000,
+        "price": 10800,
         "body": "*Warbond version ships CANNOT be obtained with store credit*",
         "unlimitedStock": true,
         "availableStock": 0
@@ -2728,7 +2728,7 @@
         "id": 13123,
         "title": "Standard Edition",
         "available": true,
-        "price": 15000,
+        "price": 18000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2757,7 +2757,7 @@
         "id": 13905,
         "title": "Standard Edition",
         "available": true,
-        "price": 45000,
+        "price": 54000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2786,7 +2786,7 @@
         "id": 14180,
         "title": "Warbond Edition",
         "available": true,
-        "price": 23000,
+        "price": 27600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2795,7 +2795,7 @@
         "id": 13106,
         "title": "Standard Edition",
         "available": true,
-        "price": 22500,
+        "price": 27000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2804,7 +2804,7 @@
         "id": 13961,
         "title": "Warbond Edition",
         "available": true,
-        "price": 22500,
+        "price": 27000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2813,7 +2813,7 @@
         "id": 13984,
         "title": "Standard Edition",
         "available": true,
-        "price": 26000,
+        "price": 31200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2842,7 +2842,7 @@
         "id": 13025,
         "title": "Standard Edition",
         "available": true,
-        "price": 3000,
+        "price": 3600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2890,7 +2890,7 @@
         "id": 13026,
         "title": "Standard Edition",
         "available": true,
-        "price": 4000,
+        "price": 4800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2919,7 +2919,7 @@
         "id": 13237,
         "title": "Warbond Edition",
         "available": true,
-        "price": 6000,
+        "price": 7200,
         "body": "<h3 style=\"color:#bf590f\"><strong>Limited Warbond Offer</strong></h3>\n<p style=\"color:#4d575e\">This limited time and stock Warbond Upgrade offer includes <strong>10-year IAE insurance.</strong><br/>Pledge cannot be made with credit.</p>",
         "unlimitedStock": true,
         "availableStock": 0
@@ -2948,7 +2948,7 @@
         "id": 13027,
         "title": "Standard Edition",
         "available": true,
-        "price": 5500,
+        "price": 6600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3034,7 +3034,7 @@
         "id": 13939,
         "title": "Standard Edition",
         "available": true,
-        "price": 8000,
+        "price": 9600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3063,7 +3063,7 @@
         "id": 13092,
         "title": "Standard Edition",
         "available": true,
-        "price": 10500,
+        "price": 12600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3320,7 +3320,7 @@
         "id": 14470,
         "title": "Warbond Edition",
         "available": true,
-        "price": 70000,
+        "price": 84000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": null
@@ -3329,7 +3329,7 @@
         "id": 13966,
         "title": "Warbond Edition",
         "available": true,
-        "price": 70000,
+        "price": 84000,
         "body": null,
         "unlimitedStock": false,
         "availableStock": null
@@ -3358,7 +3358,7 @@
         "id": 13058,
         "title": "Standard Edition",
         "available": true,
-        "price": 15500,
+        "price": 18600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3367,7 +3367,7 @@
         "id": 13238,
         "title": "Warbond Edition",
         "available": true,
-        "price": 14000,
+        "price": 16800,
         "body": "<h3 style=\"color:#bf590f\"><strong>Limited Warbond Offer</strong></h3>\n<p style=\"color:#4d575e\">This limited time and stock Warbond Upgrade offer includes <strong>10-year IAE insurance.</strong><br/>Pledge cannot be made with credit.</p>",
         "unlimitedStock": true,
         "availableStock": 0
@@ -3396,7 +3396,7 @@
         "id": 13386,
         "title": "Warbond Edition",
         "available": true,
-        "price": 39500,
+        "price": 47400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3425,7 +3425,7 @@
         "id": 13624,
         "title": "Standard Edition",
         "available": true,
-        "price": 5500,
+        "price": 6600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3454,7 +3454,7 @@
         "id": 14183,
         "title": "Standard Edition",
         "available": true,
-        "price": 7500,
+        "price": 9000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3673,7 +3673,7 @@
         "id": 13040,
         "title": "Standard Edition",
         "available": true,
-        "price": 6500,
+        "price": 7800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3682,7 +3682,7 @@
         "id": 14150,
         "title": "Warbond Edition",
         "available": true,
-        "price": 6000,
+        "price": 7200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3787,7 +3787,7 @@
         "id": 13580,
         "title": "Limited Warbond Edition",
         "available": true,
-        "price": 26500,
+        "price": 31800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3835,7 +3835,7 @@
         "id": 13241,
         "title": "Warbond Edition",
         "available": true,
-        "price": 15500,
+        "price": 18600,
         "body": "<h3 style=\"color:#bf590f\"><strong>Limited Warbond Offer</strong></h3>\n<p style=\"color:#4d575e\">This limited time and stock Warbond Upgrade offer includes <strong>10-year IAE insurance.</strong><br/>Pledge cannot be made with credit.</p>",
         "unlimitedStock": true,
         "availableStock": 0
@@ -3940,7 +3940,7 @@
         "id": 14872,
         "title": "Warbond Edition",
         "available": true,
-        "price": 6500,
+        "price": 7800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3949,7 +3949,7 @@
         "id": 14867,
         "title": "Standard Edition",
         "available": true,
-        "price": 8000,
+        "price": 9600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -4016,7 +4016,7 @@
         "id": 14075,
         "title": "Warbond Edition",
         "available": true,
-        "price": 10000,
+        "price": 12000,
         "body": "*Warbond version ships CANNOT be obtained with store credit*",
         "unlimitedStock": true,
         "availableStock": 0
@@ -4025,7 +4025,7 @@
         "id": 14465,
         "title": "Warbond Edition",
         "available": true,
-        "price": 10500,
+        "price": 12600,
         "body": "*Warbond version ships CANNOT be obtained with store credit*",
         "unlimitedStock": true,
         "availableStock": 0
@@ -4054,7 +4054,7 @@
         "id": 14076,
         "title": "Warbond Edition",
         "available": true,
-        "price": 10000,
+        "price": 12000,
         "body": "*Warbond version ships CANNOT be obtained with store credit*",
         "unlimitedStock": true,
         "availableStock": 0
@@ -4083,7 +4083,7 @@
         "id": 13064,
         "title": "Standard Edition",
         "available": true,
-        "price": 22000,
+        "price": 26400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -4112,7 +4112,7 @@
         "id": 13084,
         "title": "Standard Edition",
         "available": true,
-        "price": 5000,
+        "price": 6000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -4160,7 +4160,7 @@
         "id": 13579,
         "title": "Limited Warbond Edition",
         "available": true,
-        "price": 33000,
+        "price": 39600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -4169,7 +4169,7 @@
         "id": 13107,
         "title": "Standard Edition",
         "available": true,
-        "price": 37500,
+        "price": 45000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -4178,7 +4178,7 @@
         "id": 13970,
         "title": "Warbond Edition",
         "available": true,
-        "price": 34500,
+        "price": 41400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -4226,7 +4226,7 @@
         "id": 14483,
         "title": "Warbond Edition",
         "available": true,
-        "price": 27000,
+        "price": 32400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -4293,7 +4293,7 @@
         "id": 13959,
         "title": "Warbond Edition",
         "available": true,
-        "price": 25000,
+        "price": 30000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -4302,7 +4302,7 @@
         "id": 14099,
         "title": "Warbond Edition",
         "available": true,
-        "price": 24500,
+        "price": 29400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
