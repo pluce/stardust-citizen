@@ -410,7 +410,17 @@
     "owned": false,
     "msrp": 27500,
     "link": "/pledge/ships/rsi-apollo/Apollo-Medivac",
-    "skus": []
+    "skus": [
+      {
+        "id": 13105,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 33000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 166,
@@ -429,7 +439,17 @@
     "owned": false,
     "msrp": 25000,
     "link": "/pledge/ships/rsi-apollo/Apollo-Triage",
-    "skus": []
+    "skus": [
+      {
+        "id": 13104,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 30000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 198,
@@ -1035,15 +1055,6 @@
     "msrp": 60000,
     "link": "/pledge/ships/carrack/Carrack",
     "skus": [
-      {
-        "id": 14809,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 67200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
       {
         "id": 13634,
         "title": "Subscriber Edition",
@@ -3182,7 +3193,17 @@
     "owned": false,
     "msrp": 57500,
     "link": "/pledge/ships/orion/Orion",
-    "skus": []
+    "skus": [
+      {
+        "id": 13030,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 69000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 92,
@@ -3258,7 +3279,17 @@
     "owned": false,
     "msrp": 67500,
     "link": "/pledge/ships/perseus/Perseus",
-    "skus": []
+    "skus": [
+      {
+        "id": 13983,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 81000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 149,
@@ -3332,6 +3363,15 @@
         "price": 84000,
         "body": null,
         "unlimitedStock": false,
+        "availableStock": null
+      },
+      {
+        "id": 14991,
+        "title": "Polaris Upgrade",
+        "available": true,
+        "price": 90000,
+        "body": null,
+        "unlimitedStock": true,
         "availableStock": null
       }
     ]
@@ -3897,7 +3937,26 @@
     "owned": false,
     "msrp": 22000,
     "link": "/pledge/ships/scorpius/Scorpius",
-    "skus": []
+    "skus": [
+      {
+        "id": 14452,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 26400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 14808,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 24600,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 26,

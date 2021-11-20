@@ -3,6 +3,8 @@ const { promises } = require('fs')
 const fetch = require('node-fetch');
 const fs = promises
 const { Graph, json } = require("@dagrejs/graphlib");
+const cheerio = require('cheerio');
+const got = require('got');
 
 const headers = {
     "accept": "*/*",
@@ -132,6 +134,9 @@ fetch("https://robertsspaceindustries.com/api/account/v2/setAuthToken", { method
         }
     })
     data.ships.forEach((ship) => {
+      if (ship.skus) {
+        ship.skus = ship.skus.map(sku => ({...sku, price: sku.price * 1.2}))
+      }
       graph.setNode(ship.id, ship)
     })
     return data.ships
@@ -153,7 +158,8 @@ fetch("https://robertsspaceindustries.com/api/account/v2/setAuthToken", { method
                   "unlimitedStock": true,
                   "showStock": true,
                   "available": true,
-                  "availableStock": 0
+                  "availableStock": 0,
+                  "type": "rsi"
                 },
                 fake_sku_id
               )
@@ -168,7 +174,7 @@ fetch("https://robertsspaceindustries.com/api/account/v2/setAuthToken", { method
                     graph.setEdge(
                       s.id,
                       tship.id,
-                      sku,
+                      {...sku, type: "rsi", upgradePrice: sku.upgradePrice * 1.2 },
                       sku.id
                     )
                   })
