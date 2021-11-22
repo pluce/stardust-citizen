@@ -19,7 +19,7 @@
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Starter/Touring",
     "type": "multi",
@@ -48,7 +48,7 @@
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Starter/Light Fighter",
     "type": "multi",
@@ -77,7 +77,7 @@
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Starter/Light Freight",
     "type": "multi",
@@ -106,7 +106,7 @@
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Luxury Touring",
     "type": "multi",
@@ -135,7 +135,7 @@
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Pathfinder",
     "type": "exploration",
@@ -164,7 +164,7 @@
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Interdiction / Light Fighter",
     "type": "combat",
@@ -193,7 +193,7 @@
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Racing",
     "type": "competition",
@@ -212,7 +212,7 @@
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Touring",
     "type": "exploration",
@@ -226,12 +226,12 @@
     "id": 141,
     "name": "600i Explorer",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/n285kdnihheez/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/n285kdnihheez/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/nsl0zel8gmfxl/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/nsl0zel8gmfxl/slideshow.jpg"
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Expedition",
     "type": "exploration",
@@ -255,12 +255,12 @@
     "id": 140,
     "name": "600i Touring",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/nsl0zel8gmfxl/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/nsl0zel8gmfxl/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/7yex5ptnfxerer/product_thumb_medium_and_small/600i_beach_03.jpg",
+      "slideShow": "https://robertsspaceindustries.com//media/7yex5ptnfxerer/slideshow/600i_beach_03.jpg"
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Touring",
     "type": "exploration",
@@ -279,7 +279,7 @@
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Touring",
     "type": "exploration",
@@ -298,7 +298,7 @@
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Luxury Touring",
     "type": "exploration",
@@ -521,35 +521,6 @@
         "title": "Warbond Edition",
         "available": true,
         "price": 24000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
-  },
-  {
-    "id": 201,
-    "name": "Argo Mole",
-    "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/oyl9g7aqg17smr/product_thumb_medium_and_small/ARGO_Mole_Space_122019.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/oyl9g7aqg17smr/slideshow/ARGO_Mole_Space_122019.jpg"
-    },
-    "manufacturer": {
-      "id": 73,
-      "name": "ARGO Astronautics"
-    },
-    "focus": "Prospecting and Mining",
-    "type": "industrial",
-    "flyableStatus": "Flyable",
-    "owned": false,
-    "msrp": 31500,
-    "link": "/pledge/ships/argo-mole/Argo-Mole",
-    "skus": [
-      {
-        "id": 13309,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 37800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -930,7 +901,17 @@
     "owned": false,
     "msrp": 22000,
     "link": "/pledge/ships/defender/Banu-Defender",
-    "skus": []
+    "skus": [
+      {
+        "id": 13075,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 26400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 108,
@@ -951,11 +932,11 @@
     "link": "/pledge/ships/vanduul-blade/Blade",
     "skus": [
       {
-        "id": 13240,
-        "title": "Warbond Edition",
+        "id": 13057,
+        "title": "Standard Edition",
         "available": true,
-        "price": 30000,
-        "body": "<h3 style=\"color:#bf590f\"><strong>Limited Warbond Offer</strong></h3>\n<p style=\"color:#4d575e\">This limited time and stock Warbond Upgrade offer includes <strong>10-year IAE insurance.</strong><br/>Pledge cannot be made with credit.</p>",
+        "price": 33000,
+        "body": null,
         "unlimitedStock": true,
         "availableStock": 0
       }
@@ -1184,8 +1165,8 @@
     "id": 24,
     "name": "Caterpillar",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/d2lkocbd58mvc/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/d2lkocbd58mvc/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/0ffxba4wywl0j/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/0ffxba4wywl0j/slideshow.jpg"
     },
     "manufacturer": {
       "id": 5,
@@ -1452,8 +1433,8 @@
     "id": 56,
     "name": "Cutlass Black",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/wj92rqzvhnecb/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/wj92rqzvhnecb/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/ni2w8d06b405a/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/ni2w8d06b405a/slideshow.jpg"
     },
     "manufacturer": {
       "id": 5,
@@ -1509,8 +1490,8 @@
     "id": 58,
     "name": "Cutlass Blue",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/r7z7uznkhwojt/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/r7z7uznkhwojt/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/2hllaegtpmzyy/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/2hllaegtpmzyy/slideshow.jpg"
     },
     "manufacturer": {
       "id": 5,
@@ -1538,8 +1519,8 @@
     "id": 57,
     "name": "Cutlass Red",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/c93bnty7qmhzb/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/c93bnty7qmhzb/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/wqa6lfco4amc0/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/wqa6lfco4amc0/slideshow.jpg"
     },
     "manufacturer": {
       "id": 5,
@@ -1827,7 +1808,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Heavy Science",
     "type": "industrial",
@@ -2047,7 +2028,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Medium Freight",
     "type": "transport",
@@ -2076,7 +2057,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Expedition",
     "type": "exploration",
@@ -2105,7 +2086,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Medium Freight",
     "type": "transport",
@@ -2143,7 +2124,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Gun Ship",
     "type": "combat",
@@ -2182,8 +2163,65 @@
     ]
   },
   {
+    "id": 208,
+    "name": "G12",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/brmi1ci9rthmu/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/brmi1ci9rthmu/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 6,
+      "name": "Origin Jumpworks"
+    },
+    "focus": "Touring",
+    "type": "ground",
+    "flyableStatus": "Concept",
+    "owned": false,
+    "msrp": 6000,
+    "link": "/pledge/ships/origin-g12/G12",
+    "skus": []
+  },
+  {
+    "id": 210,
+    "name": "G12a",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/2btmuamt8zv4g/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/2btmuamt8zv4g/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 6,
+      "name": "Origin Jumpworks"
+    },
+    "focus": "Military",
+    "type": "ground",
+    "flyableStatus": "Concept",
+    "owned": false,
+    "msrp": 6500,
+    "link": "/pledge/ships/origin-g12/G12a",
+    "skus": []
+  },
+  {
+    "id": 209,
+    "name": "G12r",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/ou0nkzhocb2bd/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/ou0nkzhocb2bd/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 6,
+      "name": "Origin Jumpworks"
+    },
+    "focus": "Racing",
+    "type": "competition",
+    "flyableStatus": "Concept",
+    "owned": false,
+    "msrp": 6000,
+    "link": "/pledge/ships/origin-g12/G12r",
+    "skus": []
+  },
+  {
     "id": 91,
-    "name": "Genesis Starliner",
+    "name": "Genesis",
     "medias": {
       "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/iqk7vt4xay0zfr/product_thumb_medium_and_small/Starliner_action1_runwaycompFlat.jpg",
       "slideShow": "https://robertsspaceindustries.com//media/iqk7vt4xay0zfr/slideshow/Starliner_action1_runwaycompFlat.jpg"
@@ -2197,7 +2235,7 @@
     "flyableStatus": "Production",
     "owned": false,
     "msrp": 40000,
-    "link": "/pledge/ships/starliner/Genesis-Starliner",
+    "link": "/pledge/ships/starliner/Genesis",
     "skus": []
   },
   {
@@ -2322,7 +2360,17 @@
     "owned": false,
     "msrp": 35000,
     "link": "/pledge/ships/esperia-glaive/Glaive",
-    "skus": []
+    "skus": [
+      {
+        "id": 13043,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 42000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 151,
@@ -2414,8 +2462,8 @@
     "id": 61,
     "name": "Herald",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/xcbs8bs50xo23/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/xcbs8bs50xo23/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/eqjgd53qha550/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/eqjgd53qha550/slideshow.jpg"
     },
     "manufacturer": {
       "id": 5,
@@ -2438,7 +2486,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Medium Freight",
     "type": "transport",
@@ -2467,7 +2515,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Heavy Freight",
     "type": "transport",
@@ -2496,7 +2544,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Heavy Freight",
     "type": "transport",
@@ -2525,7 +2573,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Heavy Freight",
     "type": "transport",
@@ -2554,7 +2602,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Heavy Freight",
     "type": "transport",
@@ -2638,6 +2686,24 @@
         "body": "*Warbond version ships CANNOT be obtained with store credit*",
         "unlimitedStock": true,
         "availableStock": 0
+      },
+      {
+        "id": 13008,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 20400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 14828,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 19200,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
       }
     ]
   },
@@ -2703,12 +2769,12 @@
     "id": 22,
     "name": "M50",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/rdj7iilxxhvet/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/rdj7iilxxhvet/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/l7p21pakfkth2/product_thumb_medium_and_small.png",
+      "slideShow": "https://media.robertsspaceindustries.com/l7p21pakfkth2/slideshow.png"
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Racing",
     "type": "competition",
@@ -2723,6 +2789,35 @@
         "available": true,
         "price": 10800,
         "body": "*Warbond version ships CANNOT be obtained with store credit*",
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "name": "MOLE",
+    "medias": {
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/oyl9g7aqg17smr/product_thumb_medium_and_small/ARGO_Mole_Space_122019.jpg",
+      "slideShow": "https://robertsspaceindustries.com//media/oyl9g7aqg17smr/slideshow/ARGO_Mole_Space_122019.jpg"
+    },
+    "manufacturer": {
+      "id": 73,
+      "name": "ARGO Astronautics"
+    },
+    "focus": "Prospecting and Mining",
+    "type": "industrial",
+    "flyableStatus": "Flyable",
+    "owned": false,
+    "msrp": 31500,
+    "link": "/pledge/ships/argo-mole/MOLE",
+    "skus": [
+      {
+        "id": 13309,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 37800,
+        "body": null,
         "unlimitedStock": true,
         "availableStock": 0
       }
@@ -2810,7 +2905,7 @@
     "type": "transport",
     "flyableStatus": "Concept",
     "owned": false,
-    "msrp": 50000,
+    "msrp": 55000,
     "link": "/pledge/ships/merchantman/Merchantman",
     "skus": [
       {
@@ -2821,12 +2916,21 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
+      },
+      {
+        "id": 14842,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 66000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
       }
     ]
   },
   {
     "id": 168,
-    "name": "Mercury Star Runner",
+    "name": "Mercury",
     "medias": {
       "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/5ip5vvyg88ol8/product_thumb_medium_and_small.jpeg",
       "slideShow": "https://media.robertsspaceindustries.com/5ip5vvyg88ol8/slideshow.jpeg"
@@ -2840,7 +2944,7 @@
     "flyableStatus": "Flyable",
     "owned": false,
     "msrp": 26000,
-    "link": "/pledge/ships/crusader-mercury-star-runner/Mercury-Star-Runner",
+    "link": "/pledge/ships/crusader-mercury-star-runner/Mercury",
     "skus": [
       {
         "id": 14180,
@@ -2961,8 +3065,8 @@
     "id": 69,
     "name": "Mustang Delta",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/s7ntca9x35tjl/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/s7ntca9x35tjl/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/7gb75f5yivup7/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/7gb75f5yivup7/slideshow.jpg"
     },
     "manufacturer": {
       "id": 22,
@@ -3086,8 +3190,8 @@
     "id": 216,
     "name": "Nomad",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/fcqc4k2uwgpbr/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/fcqc4k2uwgpbr/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/inqdpb67v815c/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/inqdpb67v815c/slideshow.jpg"
     },
     "manufacturer": {
       "id": 22,
@@ -3157,7 +3261,17 @@
     "owned": false,
     "msrp": 4500,
     "link": "/pledge/ships/nox/Nox",
-    "skus": []
+    "skus": [
+      {
+        "id": 13077,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 5400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 132,
@@ -3177,63 +3291,6 @@
     "msrp": 4500,
     "link": "/pledge/ships/nox/Nox-Kue",
     "skus": null
-  },
-  {
-    "id": 208,
-    "name": "Origin G12",
-    "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/brmi1ci9rthmu/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/brmi1ci9rthmu/slideshow.jpg"
-    },
-    "manufacturer": {
-      "id": 6,
-      "name": "Origin Jumpworks GmbH"
-    },
-    "focus": "Touring",
-    "type": "ground",
-    "flyableStatus": "Concept",
-    "owned": false,
-    "msrp": 6000,
-    "link": "/pledge/ships/origin-g12/Origin-G12",
-    "skus": []
-  },
-  {
-    "id": 210,
-    "name": "Origin G12a",
-    "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/2btmuamt8zv4g/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/2btmuamt8zv4g/slideshow.jpg"
-    },
-    "manufacturer": {
-      "id": 6,
-      "name": "Origin Jumpworks GmbH"
-    },
-    "focus": "Military",
-    "type": "ground",
-    "flyableStatus": "Concept",
-    "owned": false,
-    "msrp": 6500,
-    "link": "/pledge/ships/origin-g12/Origin-G12a",
-    "skus": []
-  },
-  {
-    "id": 209,
-    "name": "Origin G12r",
-    "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/ou0nkzhocb2bd/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/ou0nkzhocb2bd/slideshow.jpg"
-    },
-    "manufacturer": {
-      "id": 6,
-      "name": "Origin Jumpworks GmbH"
-    },
-    "focus": "Racing",
-    "type": "competition",
-    "flyableStatus": "Concept",
-    "owned": false,
-    "msrp": 6000,
-    "link": "/pledge/ships/origin-g12/Origin-G12r",
-    "skus": []
   },
   {
     "id": 71,
@@ -3444,7 +3501,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Prospecting and Mining",
     "type": "industrial",
@@ -3496,6 +3553,15 @@
         "title": "Warbond Edition",
         "available": true,
         "price": 47400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 13391,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 52800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3577,14 +3643,24 @@
     "owned": false,
     "msrp": 22500,
     "link": "/pledge/ships/railen/Railen",
-    "skus": []
+    "skus": [
+      {
+        "id": 14526,
+        "title": "Railen Upgrade ",
+        "available": true,
+        "price": 27000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 182,
     "name": "Ranger CV",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/a9ukhl4werezmr/product_thumb_medium_and_small/Cargo-Min.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/a9ukhl4werezmr/slideshow/Cargo-Min.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/1pe4mpq4m650v/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/1pe4mpq4m650v/slideshow.jpg"
     },
     "manufacturer": {
       "id": 83,
@@ -3602,8 +3678,8 @@
     "id": 180,
     "name": "Ranger RC",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/dwmsr86x3doif/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/dwmsr86x3doif/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/86p4ac1l3rmra/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/86p4ac1l3rmra/slideshow.jpg"
     },
     "manufacturer": {
       "id": 83,
@@ -3621,15 +3697,15 @@
     "id": 181,
     "name": "Ranger TR",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/5bcok11mha9hp/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/5bcok11mha9hp/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/eehhr9ql9y04w/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/eehhr9ql9y04w/slideshow.jpg"
     },
     "manufacturer": {
       "id": 83,
       "name": "Tumbril"
     },
     "focus": "Combat",
-    "type": "combat",
+    "type": "ground",
     "flyableStatus": "Concept",
     "owned": false,
     "msrp": 4000,
@@ -3645,7 +3721,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Racing",
     "type": "competition",
@@ -3664,7 +3740,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Stealth",
     "type": "competition",
@@ -3683,7 +3759,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Luxury",
     "type": "competition",
@@ -3716,15 +3792,6 @@
         "title": "Standard Edition",
         "available": true,
         "price": 48000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 14813,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 45000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3797,7 +3864,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Starter / Light Freight",
     "type": "multi",
@@ -3835,7 +3902,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Reporting",
     "type": "support",
@@ -3854,7 +3921,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Light Science",
     "type": "industrial",
@@ -3873,7 +3940,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Light Fighter",
     "type": "combat",
@@ -4053,7 +4120,17 @@
     "owned": false,
     "msrp": 22000,
     "link": "/pledge/ships/aopoa-santokyai/Santoky-i",
-    "skus": []
+    "skus": [
+      {
+        "id": 13110,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 26400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 221,
@@ -4150,7 +4227,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Heavy Refuelling",
     "type": "support",
@@ -4169,7 +4246,7 @@
     },
     "manufacturer": {
       "id": 4,
-      "name": "Musashi Industrial &amp; Starflight Concern"
+      "name": "MISC"
     },
     "focus": "Heavy Refuelling",
     "type": "support",
@@ -4197,6 +4274,15 @@
     "msrp": 11500,
     "link": "/pledge/ships/talon/Talon",
     "skus": [
+      {
+        "id": 14104,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 13800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
       {
         "id": 14075,
         "title": "Warbond Edition",
@@ -4235,6 +4321,15 @@
     "msrp": 11500,
     "link": "/pledge/ships/talon/Talon-Shrike",
     "skus": [
+      {
+        "id": 14103,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 13800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
       {
         "id": 14076,
         "title": "Warbond Edition",
@@ -4589,7 +4684,7 @@
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Touring",
     "type": "exploration",
@@ -4608,7 +4703,7 @@
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Pathfinder",
     "type": "exploration",
@@ -4627,7 +4722,7 @@
     },
     "manufacturer": {
       "id": 6,
-      "name": "Origin Jumpworks GmbH"
+      "name": "Origin Jumpworks"
     },
     "focus": "Racing",
     "type": "competition",
