@@ -939,7 +939,17 @@
     "owned": false,
     "msrp": 27500,
     "link": "/pledge/ships/vanduul-blade/Blade",
-    "skus": []
+    "skus": [
+      {
+        "id": 13057,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 33000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 110,
@@ -1791,6 +1801,15 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
+      },
+      {
+        "id": 13075,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 26400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
       }
     ]
   },
@@ -1879,15 +1898,6 @@
     "msrp": 30000,
     "link": "/pledge/ships/eclipse/Eclipse",
     "skus": [
-      {
-        "id": 15502,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 33600,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
       {
         "id": 13076,
         "title": "Standard Edition",
@@ -2417,7 +2427,17 @@
     "owned": false,
     "msrp": 35000,
     "link": "/pledge/ships/esperia-glaive/Glaive",
-    "skus": []
+    "skus": [
+      {
+        "id": 13043,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 42000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 151,
@@ -2723,6 +2743,15 @@
         "availableStock": 0
       },
       {
+        "id": 13008,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 20400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
         "id": 14828,
         "title": "Warbond Edition",
         "available": true,
@@ -2950,32 +2979,23 @@
     "type": "transport",
     "flyableStatus": "Concept",
     "owned": false,
-    "msrp": 60000,
+    "msrp": 65000,
     "link": "/pledge/ships/merchantman/Merchantman",
     "skus": [
       {
-        "id": 15334,
+        "id": 15527,
         "title": "Warbond Edition",
         "available": true,
-        "price": 66000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 13009,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 42000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 15321,
-        "title": "Standard Edition",
-        "available": true,
         "price": 72000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 15524,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 78000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3297,7 +3317,17 @@
     "owned": false,
     "msrp": 4500,
     "link": "/pledge/ships/nox/Nox",
-    "skus": []
+    "skus": [
+      {
+        "id": 13077,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 5400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 132,
@@ -3554,6 +3584,15 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
+      },
+      {
+        "id": 13391,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 52800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
       }
     ]
   },
@@ -3661,7 +3700,17 @@
     "owned": false,
     "msrp": 22500,
     "link": "/pledge/ships/railen/Railen",
-    "skus": []
+    "skus": [
+      {
+        "id": 14526,
+        "title": "Standard Upgrade",
+        "available": true,
+        "price": 27000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 182,
@@ -4158,7 +4207,17 @@
     "owned": false,
     "msrp": 22000,
     "link": "/pledge/ships/aopoa-santokyai/Santoky-i",
-    "skus": []
+    "skus": [
+      {
+        "id": 13110,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 26400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 221,
@@ -4311,7 +4370,17 @@
     "owned": false,
     "msrp": 11500,
     "link": "/pledge/ships/talon/Talon",
-    "skus": []
+    "skus": [
+      {
+        "id": 14104,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 13800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 212,
@@ -4336,6 +4405,15 @@
         "title": "Standard Edition",
         "available": true,
         "price": 12000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 14103,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 13800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
