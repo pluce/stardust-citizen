@@ -1038,6 +1038,44 @@
     ]
   },
   {
+    "id": 241,
+    "name": "C8R Pisces",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/j198wh0bkm9ml/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/j198wh0bkm9ml/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 3,
+      "name": "Anvil Aerospace"
+    },
+    "focus": "Medical",
+    "type": "support",
+    "flyableStatus": "Flyable",
+    "owned": false,
+    "msrp": 6500,
+    "link": "/pledge/ships/anvil-pisces/C8R-Pisces",
+    "skus": [
+      {
+        "id": 15521,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 7200,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 15518,
+        "title": "C8R Pisces Upgrade",
+        "available": true,
+        "price": 7800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
+  },
+  {
     "id": 192,
     "name": "C8X Pisces Expedition ",
     "medias": {
@@ -1089,6 +1127,15 @@
         "title": "Warbond Edition",
         "available": true,
         "price": 67200,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 13375,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 72000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1467,7 +1514,17 @@
     "owned": false,
     "msrp": 35000,
     "link": "/pledge/ships/crucible/Crucible",
-    "skus": []
+    "skus": [
+      {
+        "id": 13053,
+        "title": "Standard Edition ",
+        "available": true,
+        "price": 42000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 56,
@@ -1993,7 +2050,17 @@
     "owned": false,
     "msrp": 17500,
     "link": "/pledge/ships/anvil-hornet/F7C-Hornet-Wildfire",
-    "skus": []
+    "skus": [
+      {
+        "id": 13069,
+        "title": "Standard Edition ",
+        "available": true,
+        "price": 21000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 15,
@@ -2013,6 +2080,24 @@
     "msrp": 18000,
     "link": "/pledge/ships/anvil-hornet/F7C-M-Super-Hornet",
     "skus": [
+      {
+        "id": 15483,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 19800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 13000,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 21600,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
       {
         "id": 13199,
         "title": "Warbond Edition",
@@ -2350,7 +2435,17 @@
     "owned": false,
     "msrp": 16500,
     "link": "/pledge/ships/anvil-gladiator/Gladiator",
-    "skus": []
+    "skus": [
+      {
+        "id": 13024,
+        "title": "Standard Edition ",
+        "available": true,
+        "price": 19800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 60,
@@ -2504,7 +2599,17 @@
     "owned": false,
     "msrp": 10000,
     "link": "/pledge/ships/hawk/Hawk",
-    "skus": []
+    "skus": [
+      {
+        "id": 13090,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 12000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 61,
@@ -2694,7 +2799,17 @@
     "owned": false,
     "msrp": 19500,
     "link": "/pledge/ships/hurricane/Hurricane",
-    "skus": []
+    "skus": [
+      {
+        "id": 13074,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 23400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 28,
@@ -2779,7 +2894,17 @@
     "owned": false,
     "msrp": 12000,
     "link": "/pledge/ships/legionnaire/Legionnaire",
-    "skus": []
+    "skus": [
+      {
+        "id": 15256,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 14400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 224,
@@ -2798,7 +2923,17 @@
     "owned": false,
     "msrp": 57500,
     "link": "/pledge/ships/liberator/Liberator",
-    "skus": []
+    "skus": [
+      {
+        "id": 14625,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 69000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": null
+      }
+    ]
   },
   {
     "id": 163,
@@ -2982,15 +3117,6 @@
     "msrp": 65000,
     "link": "/pledge/ships/merchantman/Merchantman",
     "skus": [
-      {
-        "id": 15527,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 72000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
       {
         "id": 15524,
         "title": "Standard Edition",
@@ -4302,6 +4428,15 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
+      },
+      {
+        "id": 14867,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 9600,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
       }
     ]
   },
@@ -4446,6 +4581,15 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
+      },
+      {
+        "id": 13064,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 26400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
       }
     ]
   },
@@ -4520,6 +4664,15 @@
         "title": "Warbond Edition",
         "available": true,
         "price": 42000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 13107,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 45000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
