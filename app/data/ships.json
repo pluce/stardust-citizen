@@ -488,7 +488,17 @@
     "owned": false,
     "msrp": 27500,
     "link": "/pledge/ships/rsi-apollo/Apollo-Medivac",
-    "skus": []
+    "skus": [
+      {
+        "id": 13105,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 33000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 166,
@@ -507,7 +517,17 @@
     "owned": false,
     "msrp": 25000,
     "link": "/pledge/ships/rsi-apollo/Apollo-Triage",
-    "skus": []
+    "skus": [
+      {
+        "id": 13104,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 30000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 198,
@@ -774,7 +794,17 @@
     "owned": false,
     "msrp": 3500,
     "link": "/pledge/ships/rsi-aurora/Aurora-LX",
-    "skus": []
+    "skus": [
+      {
+        "id": 14031,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 4200,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 4,
@@ -1850,15 +1880,6 @@
     "link": "/pledge/ships/cyclone/Cyclone-MT",
     "skus": [
       {
-        "id": 15508,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 7800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 14174,
         "title": "Standard Edition",
         "available": true,
@@ -2117,7 +2138,17 @@
     "owned": false,
     "msrp": 35000,
     "link": "/pledge/ships/misc-endeavor/Endeavor",
-    "skus": []
+    "skus": [
+      {
+        "id": 13046,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 42000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 230,
@@ -2136,7 +2167,17 @@
     "owned": false,
     "msrp": 15000,
     "link": "/pledge/ships/expanse/Expanse",
-    "skus": []
+    "skus": [
+      {
+        "id": 15095,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 18000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 11,
@@ -2427,6 +2468,15 @@
     "link": "/pledge/ships/misc-freelancer/Freelancer-MIS",
     "skus": [
       {
+        "id": 13001,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 21000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
         "id": 14140,
         "title": "Warbond Edition",
         "available": true,
@@ -2518,6 +2568,35 @@
         "title": "Standard Edition",
         "available": true,
         "price": 7200,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Galaxy",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/b2bx2kl8ewqej/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/b2bx2kl8ewqej/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 1,
+      "name": "Roberts Space Industries"
+    },
+    "focus": null,
+    "type": "multi",
+    "flyableStatus": "Concept",
+    "owned": false,
+    "msrp": 38000,
+    "link": "/pledge/ships/galaxy/Galaxy",
+    "skus": [
+      {
+        "id": 15641,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 45600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2832,15 +2911,6 @@
         "availableStock": 0
       },
       {
-        "id": 15294,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 9600,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 15202,
         "title": "Standard Edition",
         "available": true,
@@ -2868,7 +2938,17 @@
     "owned": false,
     "msrp": 14000,
     "link": "/pledge/ships/hull/Hull-B",
-    "skus": []
+    "skus": [
+      {
+        "id": 15036,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 16800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 41,
@@ -2887,7 +2967,17 @@
     "owned": false,
     "msrp": 35000,
     "link": "/pledge/ships/hull/Hull-C",
-    "skus": []
+    "skus": [
+      {
+        "id": 15037,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 42000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 86,
@@ -2906,7 +2996,17 @@
     "owned": false,
     "msrp": 45000,
     "link": "/pledge/ships/hull/Hull-D",
-    "skus": []
+    "skus": [
+      {
+        "id": 15038,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 54000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 87,
@@ -3261,6 +3361,15 @@
     "msrp": 15000,
     "link": "/pledge/ships/rsi-mantis/Mantis",
     "skus": [
+      {
+        "id": 15478,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 16800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
       {
         "id": 13123,
         "title": "Standard Edition",
@@ -3693,7 +3802,17 @@
     "owned": false,
     "msrp": 70000,
     "link": "/pledge/ships/odyssey/Odyssey",
-    "skus": []
+    "skus": [
+      {
+        "id": 14960,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 84000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 71,
@@ -3712,7 +3831,17 @@
     "owned": false,
     "msrp": 57500,
     "link": "/pledge/ships/orion/Orion",
-    "skus": []
+    "skus": [
+      {
+        "id": 13030,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 69000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 92,
@@ -3808,7 +3937,17 @@
     "owned": false,
     "msrp": 67500,
     "link": "/pledge/ships/perseus/Perseus",
-    "skus": []
+    "skus": [
+      {
+        "id": 13983,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 81000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 149,
@@ -3869,6 +4008,15 @@
       {
         "id": 13065,
         "title": "Standard Edition",
+        "available": true,
+        "price": 90000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": null
+      },
+      {
+        "id": 14991,
+        "title": "Polaris Upgrade",
         "available": true,
         "price": 90000,
         "body": null,
@@ -4175,6 +4323,15 @@
     "link": "/pledge/ships/razor/Razor",
     "skus": [
       {
+        "id": 13072,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 17400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
         "id": 15041,
         "title": "Warbond Edition",
         "available": true,
@@ -4202,7 +4359,17 @@
     "owned": false,
     "msrp": 15500,
     "link": "/pledge/ships/razor/Razor-EX",
-    "skus": []
+    "skus": [
+      {
+        "id": 13095,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 18600,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 158,
@@ -4221,7 +4388,17 @@
     "owned": false,
     "msrp": 15000,
     "link": "/pledge/ships/razor/Razor-LX",
-    "skus": []
+    "skus": [
+      {
+        "id": 13096,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 18000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 51,
@@ -4373,7 +4550,17 @@
     "owned": false,
     "msrp": 9500,
     "link": "/pledge/ships/reliant/Reliant-Mako",
-    "skus": []
+    "skus": [
+      {
+        "id": 13055,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 11400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 106,
@@ -4392,7 +4579,17 @@
     "owned": false,
     "msrp": 8500,
     "link": "/pledge/ships/reliant/Reliant-Sen",
-    "skus": []
+    "skus": [
+      {
+        "id": 13056,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 10200,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 107,
@@ -4411,7 +4608,17 @@
     "owned": false,
     "msrp": 7500,
     "link": "/pledge/ships/reliant/Reliant-Tana",
-    "skus": []
+    "skus": [
+      {
+        "id": 13039,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 9000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 99,
@@ -4651,6 +4858,15 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
+      },
+      {
+        "id": 15222,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 28800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
       }
     ]
   },
@@ -4728,7 +4944,17 @@
     "owned": false,
     "msrp": 30000,
     "link": "/pledge/ships/misc-starfarer/Starfarer",
-    "skus": []
+    "skus": [
+      {
+        "id": 13037,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 36000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
   },
   {
     "id": 89,
@@ -4753,6 +4979,15 @@
         "title": "Warbond Edition",
         "available": true,
         "price": 38400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 13038,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 40800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
