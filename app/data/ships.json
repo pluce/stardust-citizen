@@ -241,6 +241,15 @@
     "link": "/pledge/ships/400i/400i",
     "skus": [
       {
+        "id": 15728,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 27600,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
         "id": 14744,
         "title": "Standard Edition",
         "available": true,
@@ -1361,6 +1370,15 @@
     "link": "/pledge/ships/drake-caterpillar/Caterpillar",
     "skus": [
       {
+        "id": 15571,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 36600,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
         "id": 14892,
         "title": "Standard Edition",
         "available": true,
@@ -1898,6 +1916,15 @@
     "link": "/pledge/ships/cyclone/Cyclone-MT",
     "skus": [
       {
+        "id": 15508,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 7800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
         "id": 14174,
         "title": "Standard Edition",
         "available": true,
@@ -2274,6 +2301,15 @@
     "link": "/pledge/ships/anvil-hornet/F7C-M-Super-Hornet",
     "skus": [
       {
+        "id": 15483,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 19800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
         "id": 13000,
         "title": "Standard Edition",
         "available": true,
@@ -2456,6 +2492,15 @@
     "msrp": 15000,
     "link": "/pledge/ships/misc-freelancer/Freelancer-MAX",
     "skus": [
+      {
+        "id": 15730,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 16800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
       {
         "id": 13007,
         "title": "Standard Edition",
@@ -2784,6 +2829,15 @@
     "msrp": 72500,
     "link": "/pledge/ships/hammerhead/Hammerhead",
     "skus": [
+      {
+        "id": 15729,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 81000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
       {
         "id": 13091,
         "title": "Standard Edition",
@@ -3284,6 +3338,15 @@
     "link": "/pledge/ships/argo-mole/MOLE",
     "skus": [
       {
+        "id": 15530,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 35400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
         "id": 13309,
         "title": "Standard Edition",
         "available": true,
@@ -3379,6 +3442,15 @@
     "msrp": 15000,
     "link": "/pledge/ships/rsi-mantis/Mantis",
     "skus": [
+      {
+        "id": 15478,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 16800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
       {
         "id": 13123,
         "title": "Standard Edition",
@@ -4090,6 +4162,15 @@
     "msrp": 44000,
     "link": "/pledge/ships/prowler/Prowler",
     "skus": [
+      {
+        "id": 15731,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 49200,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
       {
         "id": 15335,
         "title": "Warbond Edition",
