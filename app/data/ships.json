@@ -1180,6 +1180,15 @@
     "link": "/pledge/ships/anvil-pisces/C8X-Pisces-Expedition",
     "skus": [
       {
+        "id": 15553,
+        "title": "BIS Warbond Edition",
+        "available": true,
+        "price": 4800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
         "id": 13259,
         "title": "Standard Edition",
         "available": true,
@@ -1208,6 +1217,15 @@
     "msrp": 60000,
     "link": "/pledge/ships/carrack/Carrack",
     "skus": [
+      {
+        "id": 15548,
+        "title": "BIS Warbond Edition",
+        "available": true,
+        "price": 67200,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
       {
         "id": 14809,
         "title": "Warbond Edition",
@@ -2585,7 +2603,7 @@
       "id": 1,
       "name": "Roberts Space Industries"
     },
-    "focus": null,
+    "focus": "Modular",
     "type": "multi",
     "flyableStatus": "Concept",
     "owned": false,
@@ -3362,15 +3380,6 @@
     "link": "/pledge/ships/rsi-mantis/Mantis",
     "skus": [
       {
-        "id": 15478,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 16800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 13123,
         "title": "Standard Edition",
         "available": true,
@@ -3428,6 +3437,15 @@
     "msrp": 26000,
     "link": "/pledge/ships/crusader-mercury-star-runner/Mercury",
     "skus": [
+      {
+        "id": 15551,
+        "title": "BIS Warbond Edition",
+        "available": true,
+        "price": 28800,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": null
+      },
       {
         "id": 14988,
         "title": "BIS Warbond Edition",
@@ -4841,6 +4859,15 @@
     "msrp": 24000,
     "link": "/pledge/ships/scorpius/Scorpius",
     "skus": [
+      {
+        "id": 15547,
+        "title": "BIS Warbond Edition",
+        "available": true,
+        "price": 26400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
       {
         "id": 15257,
         "title": "Warbond Edition",
