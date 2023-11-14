@@ -210,17 +210,7 @@
     "owned": false,
     "msrp": 12500,
     "link": "/pledge/ships/origin-300/350r",
-    "skus": [
-      {
-        "id": 12996,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 15000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 223,
@@ -241,19 +231,10 @@
     "link": "/pledge/ships/400i/400i",
     "skus": [
       {
-        "id": 15728,
+        "id": 14745,
         "title": "Warbond Edition",
         "available": true,
-        "price": 27600,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 14744,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 30000,
+        "price": 26400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -286,15 +267,6 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": null
-      },
-      {
-        "id": 13086,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 57000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
       }
     ]
   },
@@ -302,8 +274,8 @@
     "id": 140,
     "name": "600i Touring",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/7yex5ptnfxerer/product_thumb_medium_and_small/600i_beach_03.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/7yex5ptnfxerer/slideshow/600i_beach_03.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/68f2og2gz2mdq/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/68f2og2gz2mdq/slideshow.jpg"
     },
     "manufacturer": {
       "id": 6,
@@ -315,17 +287,7 @@
     "owned": false,
     "msrp": 43500,
     "link": "/pledge/ships/600i/600i-Touring",
-    "skus": [
-      {
-        "id": 13085,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 52200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 123,
@@ -344,17 +306,7 @@
     "owned": false,
     "msrp": 5000,
     "link": "/pledge/ships/85x/85X",
-    "skus": [
-      {
-        "id": 13070,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 6000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 55,
@@ -379,25 +331,34 @@
     "id": 237,
     "name": "A1 Spirit ",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/xvas846gz8n5u/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/xvas846gz8n5u/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/nsqe4f3nl1mqn/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/nsqe4f3nl1mqn/slideshow.jpg"
     },
     "manufacturer": {
       "id": 68,
       "name": "Crusader Industries"
     },
-    "focus": "Bomber",
+    "focus": "Combat / Bomber",
     "type": "combat",
-    "flyableStatus": "Concept",
+    "flyableStatus": "Flyable",
     "owned": false,
-    "msrp": 17500,
+    "msrp": 20000,
     "link": "/pledge/ships/spirit/A1-Spirit",
     "skus": [
       {
-        "id": 15456,
-        "title": "Standard Edition",
+        "id": 16329,
+        "title": "Warbond Edition",
         "available": true,
         "price": 21000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 16322,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 24000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -421,33 +382,14 @@
     "owned": false,
     "msrp": 75000,
     "link": "/pledge/ships/crusader-starlifter/A2-Hercules",
-    "skus": [
-      {
-        "id": 14740,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 81000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 14609,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 90000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": null
-      }
-    ]
+    "skus": []
   },
   {
     "id": 185,
     "name": "Anvil Ballista Dunestalker",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/rjxw89rs3sk5wr/product_thumb_medium_and_small/Ballista_Dunestalker-Min.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/rjxw89rs3sk5wr/slideshow/Ballista_Dunestalker-Min.jpg"
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com/media/rjxw89rs3sk5wr/product_thumb_medium_and_small/Ballista_Dunestalker-Min.jpg",
+      "slideShow": "https://robertsspaceindustries.com/media/rjxw89rs3sk5wr/slideshow/Ballista_Dunestalker-Min.jpg"
     },
     "manufacturer": {
       "id": 3,
@@ -465,8 +407,8 @@
     "id": 184,
     "name": "Anvil Ballista Snowblind",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/a5nzp9tgvq2i5r/product_thumb_medium_and_small/Ballista_Snowblind-Min.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/a5nzp9tgvq2i5r/slideshow/Ballista_Snowblind-Min.jpg"
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com/media/a5nzp9tgvq2i5r/product_thumb_medium_and_small/Ballista_Snowblind-Min.jpg",
+      "slideShow": "https://robertsspaceindustries.com/media/a5nzp9tgvq2i5r/slideshow/Ballista_Snowblind-Min.jpg"
     },
     "manufacturer": {
       "id": 3,
@@ -497,24 +439,14 @@
     "owned": false,
     "msrp": 27500,
     "link": "/pledge/ships/rsi-apollo/Apollo-Medivac",
-    "skus": [
-      {
-        "id": 13105,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 33000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 166,
     "name": "Apollo Triage",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/8isskxzubkscgr/product_thumb_medium_and_small/RSI_Apollo_Flight_02a_AL_PJ01-Squashed.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/8isskxzubkscgr/slideshow/RSI_Apollo_Flight_02a_AL_PJ01-Squashed.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/to77i2ovy5snn/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/to77i2ovy5snn/slideshow.jpg"
     },
     "manufacturer": {
       "id": 1,
@@ -526,17 +458,7 @@
     "owned": false,
     "msrp": 25000,
     "link": "/pledge/ships/rsi-apollo/Apollo-Triage",
-    "skus": [
-      {
-        "id": 13104,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 30000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 198,
@@ -557,28 +479,10 @@
     "link": "/pledge/ships/crusader-ares/Ares-Inferno",
     "skus": [
       {
-        "id": 13287,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 26400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 14766,
         "title": "Warbond Edition",
         "available": true,
         "price": 26400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 14762,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 30000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -604,28 +508,10 @@
     "link": "/pledge/ships/crusader-ares/Ares-Ion",
     "skus": [
       {
-        "id": 13288,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 26400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 14767,
         "title": "Warbond Edition",
         "available": true,
         "price": 26400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 14761,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 30000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -803,17 +689,7 @@
     "owned": false,
     "msrp": 3500,
     "link": "/pledge/ships/rsi-aurora/Aurora-LX",
-    "skus": [
-      {
-        "id": 14031,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 4200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 4,
@@ -888,14 +764,14 @@
     "type": "transport",
     "flyableStatus": "Flyable",
     "owned": false,
-    "msrp": 5500,
+    "msrp": 6000,
     "link": "/pledge/ships/aegis-avenger/Avenger-Titan",
     "skus": [
       {
-        "id": 13745,
+        "id": 16029,
         "title": "Standard Edition",
         "available": true,
-        "price": 6600,
+        "price": 7200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -919,17 +795,7 @@
     "owned": false,
     "msrp": 7500,
     "link": "/pledge/ships/aegis-avenger/Avenger-Titan-Renegade",
-    "skus": [
-      {
-        "id": 13051,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 9000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 101,
@@ -954,15 +820,6 @@
         "title": "Warbond Edition",
         "available": true,
         "price": 9600,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 13050,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 10200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1015,17 +872,7 @@
     "owned": false,
     "msrp": 27500,
     "link": "/pledge/ships/vanduul-blade/Blade",
-    "skus": [
-      {
-        "id": 13057,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 33000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 110,
@@ -1044,17 +891,7 @@
     "owned": false,
     "msrp": 11000,
     "link": "/pledge/ships/drake-buccaneer/Buccaneer",
-    "skus": [
-      {
-        "id": 13059,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 13200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 234,
@@ -1073,17 +910,7 @@
     "owned": false,
     "msrp": 11000,
     "link": "/pledge/ships/spirit/C1-Spirit",
-    "skus": [
-      {
-        "id": 15455,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 13200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 162,
@@ -1104,15 +931,6 @@
     "link": "/pledge/ships/crusader-starlifter/C2-Hercules",
     "skus": [
       {
-        "id": 15301,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 44400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 14989,
         "title": "BIS Warbond Edition",
         "available": true,
@@ -1120,15 +938,6 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": null
-      },
-      {
-        "id": 14445,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 48000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
       }
     ]
   },
@@ -1151,17 +960,8 @@
     "link": "/pledge/ships/anvil-pisces/C8R-Pisces",
     "skus": [
       {
-        "id": 15521,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 7200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 15518,
-        "title": "C8R Pisces Upgrade",
+        "title": "Standard Edition",
         "available": true,
         "price": 7800,
         "body": null,
@@ -1188,15 +988,6 @@
     "msrp": 4500,
     "link": "/pledge/ships/anvil-pisces/C8X-Pisces-Expedition",
     "skus": [
-      {
-        "id": 15553,
-        "title": "BIS Warbond Edition",
-        "available": true,
-        "price": 4800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
       {
         "id": 13259,
         "title": "Standard Edition",
@@ -1226,24 +1017,6 @@
     "msrp": 60000,
     "link": "/pledge/ships/carrack/Carrack",
     "skus": [
-      {
-        "id": 15548,
-        "title": "BIS Warbond Edition",
-        "available": true,
-        "price": 67200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 14809,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 67200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
       {
         "id": 13375,
         "title": "Standard Edition",
@@ -1281,17 +1054,7 @@
     "owned": false,
     "msrp": 62500,
     "link": "/pledge/ships/carrack/Carrack-Expedition",
-    "skus": [
-      {
-        "id": 13373,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 75000,
-        "body": "* This is not a GAME PACKAGE. Please note a <a href=\"https://robertsspaceindustries.com/pledge/game-packages\">GAME PACKAGE</a> is required to play the game and fly or access your ships.",
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 205,
@@ -1310,17 +1073,7 @@
     "owned": false,
     "msrp": 64500,
     "link": "/pledge/ships/carrack/Carrack-Expedition-W-C8X",
-    "skus": [
-      {
-        "id": 13374,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 77400,
-        "body": "* This is not a GAME PACKAGE. Please note a <a href=\"https://robertsspaceindustries.com/pledge/game-packages\">GAME PACKAGE</a> is required to play the game and fly or access your ships.",
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 204,
@@ -1339,17 +1092,7 @@
     "owned": false,
     "msrp": 62000,
     "link": "/pledge/ships/carrack/Carrack-W-C8X",
-    "skus": [
-      {
-        "id": 13376,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 74400,
-        "body": "* This is not a GAME PACKAGE. Please note a <a href=\"https://robertsspaceindustries.com/pledge/game-packages\">GAME PACKAGE</a> is required to play the game and fly or access your ships.",
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 24,
@@ -1370,19 +1113,10 @@
     "link": "/pledge/ships/drake-caterpillar/Caterpillar",
     "skus": [
       {
-        "id": 15571,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 36600,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 14892,
+        "id": 13004,
         "title": "Standard Edition",
         "available": true,
-        "price": 39600,
+        "price": 35400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1412,8 +1146,8 @@
     "id": 125,
     "name": "Caterpillar Pirate Edition",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/56cjes33yzdj6r/product_thumb_medium_and_small/Pirate_05.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/56cjes33yzdj6r/slideshow/Pirate_05.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/pztdfu1y7629m/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/pztdfu1y7629m/slideshow.jpg"
     },
     "manufacturer": {
       "id": 5,
@@ -1571,6 +1305,24 @@
     "link": "/pledge/ships/rsi-constellation/Constellation-Taurus",
     "skus": [
       {
+        "id": 15234,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 21600,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 13012,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 18000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
         "id": 14539,
         "title": "Standard Edition",
         "available": true,
@@ -1598,35 +1350,7 @@
     "owned": false,
     "msrp": 25000,
     "link": "/pledge/ships/drake-corsair/Corsair",
-    "skus": [
-      {
-        "id": 15598,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 27000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 13113,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 25800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 15599,
-        "title": "Standard Upgrade",
-        "available": true,
-        "price": 30000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 103,
@@ -1672,14 +1396,14 @@
     "type": "multi",
     "flyableStatus": "Flyable",
     "owned": false,
-    "msrp": 10000,
+    "msrp": 11000,
     "link": "/pledge/ships/drake-cutlass/Cutlass-Black",
     "skus": [
       {
-        "id": 13017,
+        "id": 15976,
         "title": "Standard Edition",
         "available": true,
-        "price": 12000,
+        "price": 13200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1701,7 +1425,7 @@
     "type": "combat",
     "flyableStatus": "Flyable",
     "owned": false,
-    "msrp": 10000,
+    "msrp": 11000,
     "link": "/pledge/ships/drake-cutlass/Cutlass-Black-Best-In-Show-Edition",
     "skus": []
   },
@@ -1722,17 +1446,7 @@
     "owned": false,
     "msrp": 17500,
     "link": "/pledge/ships/drake-cutlass/Cutlass-Blue",
-    "skus": [
-      {
-        "id": 13517,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 21000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 57,
@@ -1753,10 +1467,10 @@
     "link": "/pledge/ships/drake-cutlass/Cutlass-Red",
     "skus": [
       {
-        "id": 13327,
-        "title": "Standard Edition",
+        "id": 16067,
+        "title": "Warbond Edition",
         "available": true,
-        "price": 16200,
+        "price": 15000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1798,15 +1512,6 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
-      },
-      {
-        "id": 15063,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 28200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
       }
     ]
   },
@@ -1830,9 +1535,38 @@
     "skus": [
       {
         "id": 15538,
-        "title": "Standard Upgrade",
+        "title": "Standard Edition",
         "available": true,
         "price": 5400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Cutter Scout",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/997gomyxfeg86/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/997gomyxfeg86/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 5,
+      "name": "Drake Interplanetary"
+    },
+    "focus": "Scout, Reconnaissance and Intelligence",
+    "type": "exploration",
+    "flyableStatus": "Flyable",
+    "owned": false,
+    "msrp": 5000,
+    "link": "/pledge/ships/cutter/Cutter-Scout",
+    "skus": [
+      {
+        "id": 16250,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 6000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -1885,17 +1619,7 @@
     "owned": false,
     "msrp": 8000,
     "link": "/pledge/ships/cyclone/Cyclone-AA",
-    "skus": [
-      {
-        "id": 13083,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 9600,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 218,
@@ -1914,26 +1638,7 @@
     "owned": false,
     "msrp": 7500,
     "link": "/pledge/ships/cyclone/Cyclone-MT",
-    "skus": [
-      {
-        "id": 15508,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 7800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 14174,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 9000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 136,
@@ -1952,17 +1657,7 @@
     "owned": false,
     "msrp": 6500,
     "link": "/pledge/ships/cyclone/Cyclone-RC",
-    "skus": [
-      {
-        "id": 13081,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 7800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 137,
@@ -1981,17 +1676,7 @@
     "owned": false,
     "msrp": 6500,
     "link": "/pledge/ships/cyclone/Cyclone-RN",
-    "skus": [
-      {
-        "id": 13082,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 7800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 135,
@@ -2010,17 +1695,7 @@
     "owned": false,
     "msrp": 6500,
     "link": "/pledge/ships/cyclone/Cyclone-TR",
-    "skus": [
-      {
-        "id": 13080,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 7800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 129,
@@ -2045,15 +1720,6 @@
         "title": "Warbond Edition",
         "available": true,
         "price": 24000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 13075,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 26400,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2093,8 +1759,8 @@
     "id": 111,
     "name": "Dragonfly Yellowjacket",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/am12jusvbx8mqr/product_thumb_medium_and_small/Dragonfly-Left.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/am12jusvbx8mqr/slideshow/Dragonfly-Left.jpg"
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com/media/am12jusvbx8mqr/product_thumb_medium_and_small/Dragonfly-Left.jpg",
+      "slideShow": "https://robertsspaceindustries.com/media/am12jusvbx8mqr/slideshow/Dragonfly-Left.jpg"
     },
     "manufacturer": {
       "id": 5,
@@ -2125,17 +1791,7 @@
     "owned": false,
     "msrp": 15000,
     "link": "/pledge/ships/spirit/E1-Spirit",
-    "skus": [
-      {
-        "id": 15457,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 18000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 130,
@@ -2156,10 +1812,10 @@
     "link": "/pledge/ships/eclipse/Eclipse",
     "skus": [
       {
-        "id": 13076,
-        "title": "Standard Edition",
+        "id": 16208,
+        "title": "Warbond Edition",
         "available": true,
-        "price": 36000,
+        "price": 33600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -2183,17 +1839,7 @@
     "owned": false,
     "msrp": 35000,
     "link": "/pledge/ships/misc-endeavor/Endeavor",
-    "skus": [
-      {
-        "id": 13046,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 42000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 230,
@@ -2212,17 +1858,7 @@
     "owned": false,
     "msrp": 15000,
     "link": "/pledge/ships/expanse/Expanse",
-    "skus": [
-      {
-        "id": 15095,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 18000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 11,
@@ -2270,17 +1906,7 @@
     "owned": false,
     "msrp": 17500,
     "link": "/pledge/ships/anvil-hornet/F7C-Hornet-Wildfire",
-    "skus": [
-      {
-        "id": 13069,
-        "title": "Standard Edition ",
-        "available": true,
-        "price": 21000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 15,
@@ -2300,24 +1926,6 @@
     "msrp": 18000,
     "link": "/pledge/ships/anvil-hornet/F7C-M-Super-Hornet",
     "skus": [
-      {
-        "id": 15483,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 19800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 13000,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 21600,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
       {
         "id": 13199,
         "title": "Warbond Edition",
@@ -2346,17 +1954,7 @@
     "owned": false,
     "msrp": 19500,
     "link": "/pledge/ships/anvil-hornet/F7C-M-Super-Hornet-Heartseeker",
-    "skus": [
-      {
-        "id": 13112,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 23400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 14,
@@ -2435,6 +2033,15 @@
     "link": "/pledge/ships/misc-freelancer/Freelancer",
     "skus": [
       {
+        "id": 16069,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 12000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
         "id": 13002,
         "title": "Standard Edition",
         "available": true,
@@ -2493,15 +2100,6 @@
     "link": "/pledge/ships/misc-freelancer/Freelancer-MAX",
     "skus": [
       {
-        "id": 15730,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 16800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 13007,
         "title": "Standard Edition",
         "available": true,
@@ -2531,15 +2129,6 @@
     "link": "/pledge/ships/misc-freelancer/Freelancer-MIS",
     "skus": [
       {
-        "id": 13001,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 21000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 14140,
         "title": "Warbond Edition",
         "available": true,
@@ -2549,6 +2138,63 @@
         "availableStock": 0
       }
     ]
+  },
+  {
+    "id": 246,
+    "name": "Fury",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/icoxi8ahyr0i9/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/icoxi8ahyr0i9/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 96,
+      "name": "Mirai"
+    },
+    "focus": "Snub Fighter",
+    "type": "combat",
+    "flyableStatus": "Flyable",
+    "owned": false,
+    "msrp": 5500,
+    "link": "/pledge/ships/fury/Fury",
+    "skus": []
+  },
+  {
+    "id": 250,
+    "name": "Fury LX",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/c63hvy3xb308p/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/c63hvy3xb308p/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 96,
+      "name": "Mirai"
+    },
+    "focus": "Blistering Snub Speedster",
+    "type": "competition",
+    "flyableStatus": "Flyable",
+    "owned": false,
+    "msrp": 5500,
+    "link": "/pledge/ships/fury/Fury-LX",
+    "skus": []
+  },
+  {
+    "id": 248,
+    "name": "Fury MX",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/afdx1cof4p8rb/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/afdx1cof4p8rb/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 96,
+      "name": "Mirai"
+    },
+    "focus": "Snub Fighter",
+    "type": "combat",
+    "flyableStatus": "Flyable",
+    "owned": false,
+    "msrp": 5500,
+    "link": "/pledge/ships/fury/Fury-MX",
+    "skus": []
   },
   {
     "id": 208,
@@ -2567,17 +2213,7 @@
     "owned": false,
     "msrp": 6000,
     "link": "/pledge/ships/origin-g12/G12",
-    "skus": [
-      {
-        "id": 13424,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 7200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 210,
@@ -2596,17 +2232,7 @@
     "owned": false,
     "msrp": 6500,
     "link": "/pledge/ships/origin-g12/G12a",
-    "skus": [
-      {
-        "id": 13426,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 7800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 209,
@@ -2625,17 +2251,7 @@
     "owned": false,
     "msrp": 6000,
     "link": "/pledge/ships/origin-g12/G12r",
-    "skus": [
-      {
-        "id": 13425,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 7200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 244,
@@ -2654,24 +2270,14 @@
     "owned": false,
     "msrp": 38000,
     "link": "/pledge/ships/galaxy/Galaxy",
-    "skus": [
-      {
-        "id": 15641,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 45600,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 91,
     "name": "Genesis",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/iqk7vt4xay0zfr/product_thumb_medium_and_small/Starliner_action1_runwaycompFlat.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/iqk7vt4xay0zfr/slideshow/Starliner_action1_runwaycompFlat.jpg"
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com/media/iqk7vt4xay0zfr/product_thumb_medium_and_small/Starliner_action1_runwaycompFlat.jpg",
+      "slideShow": "https://robertsspaceindustries.com/media/iqk7vt4xay0zfr/slideshow/Starliner_action1_runwaycompFlat.jpg"
     },
     "manufacturer": {
       "id": 68,
@@ -2683,17 +2289,7 @@
     "owned": false,
     "msrp": 40000,
     "link": "/pledge/ships/starliner/Genesis",
-    "skus": [
-      {
-        "id": 13041,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 48000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 64,
@@ -2712,17 +2308,7 @@
     "owned": false,
     "msrp": 16500,
     "link": "/pledge/ships/anvil-gladiator/Gladiator",
-    "skus": [
-      {
-        "id": 13024,
-        "title": "Standard Edition ",
-        "available": true,
-        "price": 19800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 60,
@@ -2757,8 +2343,8 @@
     "id": 121,
     "name": "Gladius Valiant",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/mpszlemby5r43r/product_thumb_medium_and_small/Gladius_variant_sale_img.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/mpszlemby5r43r/slideshow/Gladius_variant_sale_img.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/hubxawbeqj9u7/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/hubxawbeqj9u7/slideshow.jpg"
     },
     "manufacturer": {
       "id": 12,
@@ -2770,17 +2356,7 @@
     "owned": false,
     "msrp": 11000,
     "link": "/pledge/ships/gladius/Gladius-Valiant",
-    "skus": [
-      {
-        "id": 13068,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 13200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 93,
@@ -2828,26 +2404,7 @@
     "owned": false,
     "msrp": 72500,
     "link": "/pledge/ships/hammerhead/Hammerhead",
-    "skus": [
-      {
-        "id": 15729,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 81000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 13091,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 87000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 195,
@@ -2885,17 +2442,7 @@
     "owned": false,
     "msrp": 10000,
     "link": "/pledge/ships/hawk/Hawk",
-    "skus": [
-      {
-        "id": 13090,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 12000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 61,
@@ -2914,17 +2461,7 @@
     "owned": false,
     "msrp": 8500,
     "link": "/pledge/ships/herald/Herald",
-    "skus": [
-      {
-        "id": 13022,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 10200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 229,
@@ -2943,17 +2480,7 @@
     "owned": false,
     "msrp": 3000,
     "link": "/pledge/ships/hoverquad/HoverQuad",
-    "skus": [
-      {
-        "id": 15162,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 3600,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 84,
@@ -2974,15 +2501,6 @@
     "link": "/pledge/ships/hull/Hull-A",
     "skus": [
       {
-        "id": 15574,
-        "title": "Subscribers Edition",
-        "available": true,
-        "price": 10800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 15202,
         "title": "Standard Edition",
         "available": true,
@@ -2997,8 +2515,8 @@
     "id": 85,
     "name": "Hull B",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/xg8d8kyo0bjsmr/product_thumb_medium_and_small/HullB_landedcompv3b.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/xg8d8kyo0bjsmr/slideshow/HullB_landedcompv3b.jpg"
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com/media/xg8d8kyo0bjsmr/product_thumb_medium_and_small/HullB_landedcompv3b.jpg",
+      "slideShow": "https://robertsspaceindustries.com/media/xg8d8kyo0bjsmr/slideshow/HullB_landedcompv3b.jpg"
     },
     "manufacturer": {
       "id": 4,
@@ -3012,10 +2530,10 @@
     "link": "/pledge/ships/hull/Hull-B",
     "skus": [
       {
-        "id": 15036,
+        "id": 13034,
         "title": "Standard Edition",
         "available": true,
-        "price": 16800,
+        "price": 10800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3026,8 +2544,8 @@
     "id": 41,
     "name": "Hull C",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/lzrmk4fn1dzzc/product_thumb_medium_and_small.png",
-      "slideShow": "https://media.robertsspaceindustries.com/lzrmk4fn1dzzc/slideshow.png"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/3ati06z7ifjzv/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/3ati06z7ifjzv/slideshow.jpg"
     },
     "manufacturer": {
       "id": 4,
@@ -3035,16 +2553,16 @@
     },
     "focus": "Heavy Freight",
     "type": "transport",
-    "flyableStatus": "Concept",
+    "flyableStatus": "Flyable",
     "owned": false,
-    "msrp": 35000,
+    "msrp": 50000,
     "link": "/pledge/ships/hull/Hull-C",
     "skus": [
       {
-        "id": 15037,
+        "id": 13010,
         "title": "Standard Edition",
         "available": true,
-        "price": 42000,
+        "price": 30000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3070,10 +2588,10 @@
     "link": "/pledge/ships/hull/Hull-D",
     "skus": [
       {
-        "id": 15038,
+        "id": 13035,
         "title": "Standard Edition",
         "available": true,
-        "price": 54000,
+        "price": 42000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3084,8 +2602,8 @@
     "id": 87,
     "name": "Hull E",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/xyt1qu08sjmy3r/product_thumb_medium_and_small/Hull_E_3_compflat.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/xyt1qu08sjmy3r/slideshow/Hull_E_3_compflat.jpg"
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com/media/xyt1qu08sjmy3r/product_thumb_medium_and_small/Hull_E_3_compflat.jpg",
+      "slideShow": "https://robertsspaceindustries.com/media/xyt1qu08sjmy3r/slideshow/Hull_E_3_compflat.jpg"
     },
     "manufacturer": {
       "id": 4,
@@ -3103,8 +2621,8 @@
     "id": 128,
     "name": "Hurricane",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/iupif96slteo0r/product_thumb_medium_and_small/Action_02-Squashed.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/iupif96slteo0r/slideshow/Action_02-Squashed.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/s6cv8zd5n24s2/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/s6cv8zd5n24s2/slideshow.jpg"
     },
     "manufacturer": {
       "id": 3,
@@ -3114,12 +2632,12 @@
     "type": "combat",
     "flyableStatus": "Flyable",
     "owned": false,
-    "msrp": 19500,
+    "msrp": 21000,
     "link": "/pledge/ships/hurricane/Hurricane",
     "skus": [
       {
-        "id": 13074,
-        "title": "Standard Edition",
+        "id": 16060,
+        "title": "Warbond Edition",
         "available": true,
         "price": 23400,
         "body": null,
@@ -3151,8 +2669,8 @@
     "id": 35,
     "name": "Khartu-Al",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/mh9vdzrxsx21u/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/mh9vdzrxsx21u/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/zd5doe8h0xemz/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/zd5doe8h0xemz/slideshow.jpg"
     },
     "manufacturer": {
       "id": 81,
@@ -3171,15 +2689,6 @@
         "available": true,
         "price": 19200,
         "body": "*Warbond version ships CANNOT be obtained with store credit*",
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 13008,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 20400,
-        "body": null,
         "unlimitedStock": true,
         "availableStock": 0
       },
@@ -3211,17 +2720,7 @@
     "owned": false,
     "msrp": 12000,
     "link": "/pledge/ships/legionnaire/Legionnaire",
-    "skus": [
-      {
-        "id": 15256,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 14400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 224,
@@ -3253,6 +2752,35 @@
     ]
   },
   {
+    "id": 245,
+    "name": "Lynx ",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/m6ikrk16sokre/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/m6ikrk16sokre/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 1,
+      "name": "Roberts Space Industries"
+    },
+    "focus": "Luxury Transport/Explorer",
+    "type": "ground",
+    "flyableStatus": "Flyable",
+    "owned": false,
+    "msrp": 6000,
+    "link": "/pledge/ships/ursa/Lynx",
+    "skus": [
+      {
+        "id": 16411,
+        "title": "Subscribers Edition",
+        "available": true,
+        "price": 7200,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
+  },
+  {
     "id": 163,
     "name": "M2 Hercules",
     "medias": {
@@ -3270,15 +2798,6 @@
     "msrp": 52000,
     "link": "/pledge/ships/crusader-starlifter/M2-Hercules",
     "skus": [
-      {
-        "id": 14446,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 62400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
       {
         "id": 14435,
         "title": "Warbond Edition",
@@ -3307,24 +2826,14 @@
     "owned": false,
     "msrp": 10000,
     "link": "/pledge/ships/origin-m50/M50",
-    "skus": [
-      {
-        "id": 13003,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 12000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 201,
     "name": "MOLE",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/oyl9g7aqg17smr/product_thumb_medium_and_small/ARGO_Mole_Space_122019.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/oyl9g7aqg17smr/slideshow/ARGO_Mole_Space_122019.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/nxjx5y43r2nbs/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/nxjx5y43r2nbs/slideshow.jpg"
     },
     "manufacturer": {
       "id": 73,
@@ -3337,15 +2846,6 @@
     "msrp": 31500,
     "link": "/pledge/ships/argo-mole/MOLE",
     "skus": [
-      {
-        "id": 15530,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 35400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
       {
         "id": 13309,
         "title": "Standard Edition",
@@ -3383,15 +2883,6 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": null
-      },
-      {
-        "id": 13063,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 4200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
       }
     ]
   },
@@ -3399,8 +2890,8 @@
     "id": 113,
     "name": "MPUV Personnel",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/fgi7cen4bdvzkr/product_thumb_medium_and_small/Landing_v01.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/fgi7cen4bdvzkr/slideshow/Landing_v01.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/ee5eljtb2gs4b/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/ee5eljtb2gs4b/slideshow.jpg"
     },
     "manufacturer": {
       "id": 73,
@@ -3412,17 +2903,7 @@
     "owned": false,
     "msrp": 4000,
     "link": "/pledge/ships/argo/MPUV-Personnel",
-    "skus": [
-      {
-        "id": 13062,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 4800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 189,
@@ -3442,15 +2923,6 @@
     "msrp": 15000,
     "link": "/pledge/ships/rsi-mantis/Mantis",
     "skus": [
-      {
-        "id": 15478,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 16800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
       {
         "id": 13123,
         "title": "Standard Edition",
@@ -3481,10 +2953,19 @@
     "link": "/pledge/ships/merchantman/Merchantman",
     "skus": [
       {
-        "id": 15524,
+        "id": 13905,
         "title": "Standard Edition",
         "available": true,
-        "price": 78000,
+        "price": 54000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 13009,
+        "title": "Standard Edition",
+        "available": true,
+        "price": 42000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3510,15 +2991,6 @@
     "link": "/pledge/ships/crusader-mercury-star-runner/Mercury",
     "skus": [
       {
-        "id": 15551,
-        "title": "BIS Warbond Edition",
-        "available": true,
-        "price": 28800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": null
-      },
-      {
         "id": 14988,
         "title": "BIS Warbond Edition",
         "available": true,
@@ -3526,15 +2998,6 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": null
-      },
-      {
-        "id": 14348,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 31200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
       }
     ]
   },
@@ -3571,8 +3034,8 @@
     "id": 65,
     "name": "Mustang Alpha",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/cpq6ly29wmi1br/product_thumb_medium_and_small/56745675467.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/cpq6ly29wmi1br/slideshow/56745675467.jpg"
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com/media/cpq6ly29wmi1br/product_thumb_medium_and_small/56745675467.jpg",
+      "slideShow": "https://robertsspaceindustries.com/media/cpq6ly29wmi1br/slideshow/56745675467.jpg"
     },
     "manufacturer": {
       "id": 22,
@@ -3619,8 +3082,8 @@
     "id": 66,
     "name": "Mustang Beta",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/4ws8rrspe10exr/product_thumb_medium_and_small/5675676578.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/4ws8rrspe10exr/slideshow/5675676578.jpg"
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com/media/4ws8rrspe10exr/product_thumb_medium_and_small/5675676578.jpg",
+      "slideShow": "https://robertsspaceindustries.com/media/4ws8rrspe10exr/slideshow/5675676578.jpg"
     },
     "manufacturer": {
       "id": 22,
@@ -3661,17 +3124,7 @@
     "owned": false,
     "msrp": 6500,
     "link": "/pledge/ships/mustang/Mustang-Delta",
-    "skus": [
-      {
-        "id": 13028,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 7800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 67,
@@ -3738,17 +3191,7 @@
     "owned": false,
     "msrp": 72500,
     "link": "/pledge/ships/aegis-nautilus/Nautilus",
-    "skus": [
-      {
-        "id": 13121,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 87000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 187,
@@ -3817,10 +3260,19 @@
     "link": "/pledge/ships/nova-tank/Nova",
     "skus": [
       {
-        "id": 14443,
-        "title": "Standard Edition",
+        "id": 15944,
+        "title": "Warbond Edition",
         "available": true,
-        "price": 14400,
+        "price": 13200,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 14444,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 12600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -3844,17 +3296,7 @@
     "owned": false,
     "msrp": 4500,
     "link": "/pledge/ships/nox/Nox",
-    "skus": [
-      {
-        "id": 13077,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 5400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 132,
@@ -3892,24 +3334,14 @@
     "owned": false,
     "msrp": 70000,
     "link": "/pledge/ships/odyssey/Odyssey",
-    "skus": [
-      {
-        "id": 14960,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 84000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 71,
     "name": "Orion",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/hfpnkupg7gr6er/product_thumb_medium_and_small/RSI_Orion_Situ1b_150219_GH.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/hfpnkupg7gr6er/slideshow/RSI_Orion_Situ1b_150219_GH.jpg"
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com/media/hfpnkupg7gr6er/product_thumb_medium_and_small/RSI_Orion_Situ1b_150219_GH.jpg",
+      "slideShow": "https://robertsspaceindustries.com/media/hfpnkupg7gr6er/slideshow/RSI_Orion_Situ1b_150219_GH.jpg"
     },
     "manufacturer": {
       "id": 1,
@@ -3921,17 +3353,7 @@
     "owned": false,
     "msrp": 57500,
     "link": "/pledge/ships/orion/Orion",
-    "skus": [
-      {
-        "id": 13030,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 69000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 92,
@@ -3950,17 +3372,7 @@
     "owned": false,
     "msrp": 2500,
     "link": "/pledge/ships/p52-merlin/P-52-Merlin",
-    "skus": [
-      {
-        "id": 13042,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 3000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 104,
@@ -3979,24 +3391,14 @@
     "owned": false,
     "msrp": 3500,
     "link": "/pledge/ships/p72-archimedes/P-72-Archimedes",
-    "skus": [
-      {
-        "id": 13054,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 4200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 207,
     "name": "P-72 Archimedes Emerald",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/o94ip9isoyjmhr/product_thumb_medium_and_small/Archimedes-Sku-Image-V3.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/o94ip9isoyjmhr/slideshow/Archimedes-Sku-Image-V3.jpg"
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com/media/o94ip9isoyjmhr/product_thumb_medium_and_small/Archimedes-Sku-Image-V3.jpg",
+      "slideShow": "https://robertsspaceindustries.com/media/o94ip9isoyjmhr/slideshow/Archimedes-Sku-Image-V3.jpg"
     },
     "manufacturer": {
       "id": 19,
@@ -4027,17 +3429,7 @@
     "owned": false,
     "msrp": 67500,
     "link": "/pledge/ships/perseus/Perseus",
-    "skus": [
-      {
-        "id": 13983,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 81000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 149,
@@ -4103,15 +3495,6 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": null
-      },
-      {
-        "id": 14991,
-        "title": "Polaris Upgrade",
-        "available": true,
-        "price": 90000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": null
       }
     ]
   },
@@ -4134,6 +3517,15 @@
     "link": "/pledge/ships/misc-prospector/Prospector",
     "skus": [
       {
+        "id": 16065,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 17400,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
         "id": 13058,
         "title": "Standard Edition",
         "available": true,
@@ -4148,8 +3540,8 @@
     "id": 117,
     "name": "Prowler",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/p2s3gs7us6jr7/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/p2s3gs7us6jr7/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/iaps0ps9oo83s/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/iaps0ps9oo83s/slideshow.jpg"
     },
     "manufacturer": {
       "id": 69,
@@ -4163,28 +3555,10 @@
     "link": "/pledge/ships/prowler/Prowler",
     "skus": [
       {
-        "id": 15731,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 49200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 15335,
         "title": "Warbond Edition",
         "available": true,
         "price": 49200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 13391,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 52800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -4217,15 +3591,6 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
-      },
-      {
-        "id": 14900,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 15000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
       }
     ]
   },
@@ -4233,8 +3598,8 @@
     "id": 214,
     "name": "ROC",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/wo06flt432pjs/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/wo06flt432pjs/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/5m775y926q41c/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/5m775y926q41c/slideshow.jpg"
     },
     "manufacturer": {
       "id": 17,
@@ -4291,8 +3656,8 @@
     "id": 222,
     "name": "Railen",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/o9xkv7978a65j/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/o9xkv7978a65j/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/i3aybjtr4j7fq/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/i3aybjtr4j7fq/slideshow.jpg"
     },
     "manufacturer": {
       "id": 93,
@@ -4304,17 +3669,7 @@
     "owned": false,
     "msrp": 22500,
     "link": "/pledge/ships/railen/Railen",
-    "skus": [
-      {
-        "id": 14526,
-        "title": "Standard Upgrade",
-        "available": true,
-        "price": 27000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 182,
@@ -4333,17 +3688,7 @@
     "owned": false,
     "msrp": 3500,
     "link": "/pledge/ships/tumbril-ranger/Ranger-CV",
-    "skus": [
-      {
-        "id": 13117,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 4200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 180,
@@ -4362,17 +3707,7 @@
     "owned": false,
     "msrp": 3500,
     "link": "/pledge/ships/tumbril-ranger/Ranger-RC",
-    "skus": [
-      {
-        "id": 13115,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 4200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 181,
@@ -4391,28 +3726,18 @@
     "owned": false,
     "msrp": 4000,
     "link": "/pledge/ships/tumbril-ranger/Ranger-TR",
-    "skus": [
-      {
-        "id": 13116,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 4800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 126,
     "name": "Razor",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/u559aay14ps9r/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/u559aay14ps9r/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/ryf59d1orpnzh/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/ryf59d1orpnzh/slideshow.jpg"
     },
     "manufacturer": {
-      "id": 4,
-      "name": "MISC"
+      "id": 96,
+      "name": "Mirai"
     },
     "focus": "Racing",
     "type": "competition",
@@ -4421,15 +3746,6 @@
     "msrp": 14500,
     "link": "/pledge/ships/razor/Razor",
     "skus": [
-      {
-        "id": 13072,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 17400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
       {
         "id": 15041,
         "title": "Warbond Edition",
@@ -4449,8 +3765,8 @@
       "slideShow": "https://media.robertsspaceindustries.com/7ryipnsxv61xe/slideshow.jpg"
     },
     "manufacturer": {
-      "id": 4,
-      "name": "MISC"
+      "id": 96,
+      "name": "Mirai"
     },
     "focus": "Stealth",
     "type": "competition",
@@ -4458,28 +3774,18 @@
     "owned": false,
     "msrp": 15500,
     "link": "/pledge/ships/razor/Razor-EX",
-    "skus": [
-      {
-        "id": 13095,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 18600,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 158,
     "name": "Razor LX",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/vcl5utfh9itc5r/product_thumb_medium_and_small/Razor_lx_L.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/vcl5utfh9itc5r/slideshow/Razor_lx_L.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/k8vf8c6y16gcp/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/k8vf8c6y16gcp/slideshow.jpg"
     },
     "manufacturer": {
-      "id": 4,
-      "name": "MISC"
+      "id": 96,
+      "name": "Mirai"
     },
     "focus": "Luxury",
     "type": "competition",
@@ -4487,17 +3793,7 @@
     "owned": false,
     "msrp": 15000,
     "link": "/pledge/ships/razor/Razor-LX",
-    "skus": [
-      {
-        "id": 13096,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 18000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 51,
@@ -4517,15 +3813,6 @@
     "msrp": 40000,
     "link": "/pledge/ships/reclaimer/Reclaimer",
     "skus": [
-      {
-        "id": 13015,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 48000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
       {
         "id": 14813,
         "title": "Warbond Edition",
@@ -4573,26 +3860,7 @@
     "owned": false,
     "msrp": 32500,
     "link": "/pledge/ships/redeemer/Redeemer",
-    "skus": [
-      {
-        "id": 15024,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 33000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 15025,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 39000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 90,
@@ -4649,17 +3917,7 @@
     "owned": false,
     "msrp": 9500,
     "link": "/pledge/ships/reliant/Reliant-Mako",
-    "skus": [
-      {
-        "id": 13055,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 11400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 106,
@@ -4678,17 +3936,7 @@
     "owned": false,
     "msrp": 8500,
     "link": "/pledge/ships/reliant/Reliant-Sen",
-    "skus": [
-      {
-        "id": 13056,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 10200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 107,
@@ -4707,17 +3955,7 @@
     "owned": false,
     "msrp": 7500,
     "link": "/pledge/ships/reliant/Reliant-Tana",
-    "skus": [
-      {
-        "id": 13039,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 9000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 99,
@@ -4736,17 +3974,7 @@
     "owned": false,
     "msrp": 15000,
     "link": "/pledge/ships/aegis-retaliator/Retaliator",
-    "skus": [
-      {
-        "id": 13048,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 18000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 72,
@@ -4765,17 +3993,7 @@
     "owned": false,
     "msrp": 27500,
     "link": "/pledge/ships/aegis-retaliator/Retaliator-Bomber",
-    "skus": [
-      {
-        "id": 13031,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 33000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 176,
@@ -4852,17 +4070,7 @@
     "owned": false,
     "msrp": 17000,
     "link": "/pledge/ships/sabre/Sabre",
-    "skus": [
-      {
-        "id": 13047,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 20400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 120,
@@ -4881,24 +4089,14 @@
     "owned": false,
     "msrp": 18500,
     "link": "/pledge/ships/sabre/Sabre-Comet",
-    "skus": [
-      {
-        "id": 13067,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 22200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 174,
     "name": "San'tok.yāi",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/tpjsembbxiikh/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/tpjsembbxiikh/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/1mxekzrczhknd/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/1mxekzrczhknd/slideshow.jpg"
     },
     "manufacturer": {
       "id": 81,
@@ -4910,17 +4108,7 @@
     "owned": false,
     "msrp": 22000,
     "link": "/pledge/ships/aopoa-santokyai/Santoky-i",
-    "skus": [
-      {
-        "id": 13110,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 26400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 221,
@@ -4941,24 +4129,6 @@
     "link": "/pledge/ships/scorpius/Scorpius",
     "skus": [
       {
-        "id": 15547,
-        "title": "BIS Warbond Edition",
-        "available": true,
-        "price": 26400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 15257,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 26400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 14808,
         "title": "Warbond Edition",
         "available": true,
@@ -4968,7 +4138,7 @@
         "availableStock": 0
       },
       {
-        "id": 15222,
+        "id": 15682,
         "title": "Standard Edition",
         "available": true,
         "price": 28800,
@@ -4977,6 +4147,25 @@
         "availableStock": 0
       }
     ]
+  },
+  {
+    "id": 243,
+    "name": "Scorpius Antares",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/ib2pmees0vrq3/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/ib2pmees0vrq3/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 1,
+      "name": "Roberts Space Industries"
+    },
+    "focus": "Heavy Fighter",
+    "type": "combat",
+    "flyableStatus": "Flyable",
+    "owned": false,
+    "msrp": 23000,
+    "link": "/pledge/ships/scorpius/Scorpius-Antares",
+    "skus": []
   },
   {
     "id": 26,
@@ -5023,15 +4212,6 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
-      },
-      {
-        "id": 14867,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 9600,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
       }
     ]
   },
@@ -5052,17 +4232,7 @@
     "owned": false,
     "msrp": 30000,
     "link": "/pledge/ships/misc-starfarer/Starfarer",
-    "skus": [
-      {
-        "id": 13037,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 36000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 89,
@@ -5081,21 +4251,31 @@
     "owned": false,
     "msrp": 34000,
     "link": "/pledge/ships/misc-starfarer/Starfarer-Gemini",
+    "skus": []
+  },
+  {
+    "id": 249,
+    "name": "Storm",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/rznopmcrmsbn3/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/rznopmcrmsbn3/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 83,
+      "name": "Tumbril"
+    },
+    "focus": "Combat",
+    "type": "ground",
+    "flyableStatus": "Concept",
+    "owned": false,
+    "msrp": 8000,
+    "link": "/pledge/ships/storm/Storm",
     "skus": [
       {
-        "id": 15300,
-        "title": "Warbond Edition",
+        "id": 15954,
+        "title": "Standard Upgrade",
         "available": true,
-        "price": 38400,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 13038,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 40800,
+        "price": 9600,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -5106,8 +4286,8 @@
     "id": 211,
     "name": "Talon",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/z3ptuyds8s7fh/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/z3ptuyds8s7fh/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/5ldm3z0l75na6/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/5ldm3z0l75na6/slideshow.jpg"
     },
     "manufacturer": {
       "id": 69,
@@ -5119,17 +4299,7 @@
     "owned": false,
     "msrp": 11500,
     "link": "/pledge/ships/talon/Talon",
-    "skus": [
-      {
-        "id": 14104,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 13800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 212,
@@ -5148,26 +4318,7 @@
     "owned": false,
     "msrp": 11500,
     "link": "/pledge/ships/talon/Talon-Shrike",
-    "skus": [
-      {
-        "id": 13414,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 12000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 14103,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 13800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 115,
@@ -5188,15 +4339,6 @@
     "link": "/pledge/ships/terrapin/Terrapin",
     "skus": [
       {
-        "id": 15264,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 25200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
         "id": 13064,
         "title": "Standard Edition",
         "available": true,
@@ -5209,10 +4351,10 @@
   },
   {
     "id": 139,
-    "name": "Ursa Rover",
+    "name": "Ursa",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/0t7dmnxg6ajtt/product_thumb_medium_and_small.png",
-      "slideShow": "https://media.robertsspaceindustries.com/0t7dmnxg6ajtt/slideshow.png"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/2ronj9a48ng6q/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/2ronj9a48ng6q/slideshow.jpg"
     },
     "manufacturer": {
       "id": 1,
@@ -5223,7 +4365,7 @@
     "flyableStatus": "Flyable",
     "owned": false,
     "msrp": 5000,
-    "link": "/pledge/ships/ursa/Ursa-Rover",
+    "link": "/pledge/ships/ursa/Ursa",
     "skus": [
       {
         "id": 13084,
@@ -5238,7 +4380,7 @@
   },
   {
     "id": 179,
-    "name": "Ursa Rover Fortuna",
+    "name": "Ursa Fortuna",
     "medias": {
       "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/g62q7c3956cu1/product_thumb_medium_and_small.jpg",
       "slideShow": "https://media.robertsspaceindustries.com/g62q7c3956cu1/slideshow.jpg"
@@ -5252,7 +4394,7 @@
     "flyableStatus": "Flyable",
     "owned": false,
     "msrp": 5500,
-    "link": "/pledge/ships/ursa/Ursa-Rover-Fortuna",
+    "link": "/pledge/ships/ursa/Ursa-Fortuna",
     "skus": []
   },
   {
@@ -5274,19 +4416,10 @@
     "link": "/pledge/ships/anvil-valkyrie/Valkyrie",
     "skus": [
       {
-        "id": 15263,
+        "id": 16068,
         "title": "Warbond Edition",
         "available": true,
         "price": 42000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 13107,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 45000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -5297,8 +4430,8 @@
     "id": 171,
     "name": "Valkyrie Liberator Edition",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/l87lynolh4pxyr/product_thumb_medium_and_small/128934g7tt.jpg",
-      "slideShow": "https://robertsspaceindustries.com//media/l87lynolh4pxyr/slideshow/128934g7tt.jpg"
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com/media/l87lynolh4pxyr/product_thumb_medium_and_small/128934g7tt.jpg",
+      "slideShow": "https://robertsspaceindustries.com/media/l87lynolh4pxyr/slideshow/128934g7tt.jpg"
     },
     "manufacturer": {
       "id": 3,
@@ -5338,15 +4471,6 @@
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
-      },
-      {
-        "id": 13044,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 34800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
       }
     ]
   },
@@ -5365,19 +4489,9 @@
     "type": "combat",
     "flyableStatus": "Flyable",
     "owned": false,
-    "msrp": 23500,
+    "msrp": 24000,
     "link": "/pledge/ships/vanguard/Vanguard-Hoplite",
-    "skus": [
-      {
-        "id": 13073,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 28200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 96,
@@ -5396,26 +4510,7 @@
     "owned": false,
     "msrp": 27500,
     "link": "/pledge/ships/vanguard/Vanguard-Sentinel",
-    "skus": [
-      {
-        "id": 15237,
-        "title": "Warbond Edition",
-        "available": true,
-        "price": 31200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      },
-      {
-        "id": 13045,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 33000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 75,
@@ -5434,17 +4529,7 @@
     "owned": false,
     "msrp": 26000,
     "link": "/pledge/ships/vanguard/Vanguard-Warden",
-    "skus": [
-      {
-        "id": 13032,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 31200,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 155,
@@ -5463,24 +4548,14 @@
     "owned": false,
     "msrp": 20000,
     "link": "/pledge/ships/vulcan/Vulcan",
-    "skus": [
-      {
-        "id": 13093,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 24000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 165,
     "name": "Vulture",
     "medias": {
-      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/whe7eao2yqmjm/product_thumb_medium_and_small.jpg",
-      "slideShow": "https://media.robertsspaceindustries.com/whe7eao2yqmjm/slideshow.jpg"
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/u4hhkc71wyuoh/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/u4hhkc71wyuoh/slideshow.jpg"
     },
     "manufacturer": {
       "id": 5,
@@ -5488,25 +4563,34 @@
     },
     "focus": "Light Salvage",
     "type": "industrial",
-    "flyableStatus": "Concept",
+    "flyableStatus": "Flyable",
     "owned": false,
-    "msrp": 14000,
+    "msrp": 17500,
     "link": "/pledge/ships/drake-vulture/Vulture",
     "skus": [
       {
-        "id": 15269,
+        "id": 16066,
         "title": "Warbond Edition",
         "available": true,
-        "price": 15600,
+        "price": 19200,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
       },
       {
-        "id": 13103,
+        "id": 15493,
+        "title": "Warbond Edition",
+        "available": true,
+        "price": 18000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      },
+      {
+        "id": 15464,
         "title": "Standard Edition",
         "available": true,
-        "price": 16800,
+        "price": 21000,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
@@ -5517,8 +4601,8 @@
     "id": 143,
     "name": "X1",
     "medias": {
-      "productThumbMediumAndSmall": "https://robertsspaceindustries.com//media/ktxtqr3rikt88r/product_thumb_medium_and_small/X1_base_white.png",
-      "slideShow": "https://robertsspaceindustries.com//media/ktxtqr3rikt88r/slideshow/X1_base_white.png"
+      "productThumbMediumAndSmall": "https://robertsspaceindustries.com/media/ktxtqr3rikt88r/product_thumb_medium_and_small/X1_base_white.png",
+      "slideShow": "https://robertsspaceindustries.com/media/ktxtqr3rikt88r/slideshow/X1_base_white.png"
     },
     "manufacturer": {
       "id": 6,
@@ -5530,17 +4614,7 @@
     "owned": false,
     "msrp": 4000,
     "link": "/pledge/ships/x1/X1",
-    "skus": [
-      {
-        "id": 13087,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 4800,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 147,
@@ -5559,17 +4633,7 @@
     "owned": false,
     "msrp": 5000,
     "link": "/pledge/ships/x1/X1-Force",
-    "skus": [
-      {
-        "id": 13089,
-        "title": "Standard Edition",
-        "available": true,
-        "price": 6000,
-        "body": null,
-        "unlimitedStock": true,
-        "availableStock": 0
-      }
-    ]
+    "skus": []
   },
   {
     "id": 145,
@@ -5588,12 +4652,89 @@
     "owned": false,
     "msrp": 4500,
     "link": "/pledge/ships/x1/X1-Velocity",
+    "skus": []
+  },
+  {
+    "id": 257,
+    "name": "Zeus Mk II CL",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/ypbhy8y8jsgea/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/ypbhy8y8jsgea/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 1,
+      "name": "Roberts Space Industries"
+    },
+    "focus": "Transport / Medium Freight",
+    "type": "transport",
+    "flyableStatus": "Concept",
+    "owned": false,
+    "msrp": 15000,
+    "link": "/pledge/ships/zeus-mk-ii/Zeus-Mk-II-CL",
     "skus": [
       {
-        "id": 13088,
-        "title": "Standard Edition",
+        "id": 16235,
+        "title": "Standard Upgrade",
         "available": true,
-        "price": 5400,
+        "price": 18000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Zeus Mk II ES",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/21443ernflvcw/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/21443ernflvcw/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 1,
+      "name": "Roberts Space Industries"
+    },
+    "focus": "Exploration / Expedition",
+    "type": "exploration",
+    "flyableStatus": "Concept",
+    "owned": false,
+    "msrp": 15000,
+    "link": "/pledge/ships/zeus-mk-ii/Zeus-Mk-II-ES",
+    "skus": [
+      {
+        "id": 16231,
+        "title": "Standard Upgrade",
+        "available": true,
+        "price": 18000,
+        "body": null,
+        "unlimitedStock": true,
+        "availableStock": 0
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Zeus Mk II MR",
+    "medias": {
+      "productThumbMediumAndSmall": "https://media.robertsspaceindustries.com/pj51owg973q4h/product_thumb_medium_and_small.jpg",
+      "slideShow": "https://media.robertsspaceindustries.com/pj51owg973q4h/slideshow.jpg"
+    },
+    "manufacturer": {
+      "id": 1,
+      "name": "Roberts Space Industries"
+    },
+    "focus": "Combat / Interdiction",
+    "type": "combat",
+    "flyableStatus": "Concept",
+    "owned": false,
+    "msrp": 19000,
+    "link": "/pledge/ships/zeus-mk-ii/Zeus-Mk-II-MR",
+    "skus": [
+      {
+        "id": 16239,
+        "title": "Standard Upgrade",
+        "available": true,
+        "price": 22800,
         "body": null,
         "unlimitedStock": true,
         "availableStock": 0
